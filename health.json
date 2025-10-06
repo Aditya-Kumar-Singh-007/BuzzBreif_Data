@@ -1,838 +1,1806 @@
 {
   "status": "ok",
-  "totalResults": 64,
+  "totalResults": 150,
   "articles": [
     {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
       "author": null,
-      "title": "Birmingham woman at risk of dementia that led to mother's death - BBC",
-      "description": "Liv Heeney discovered she had inherited a faulty gene after losing her mother to the rare disease.",
-      "url": "https://www.bbc.com/news/articles/ce32kx79e7eo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c738/live/c7e72570-a069-11f0-9640-9757c7912ee3.png",
-      "publishedAt": "2025-10-05T01:29:52Z",
-      "content": "Shehnaz KhanWest Midlands\r\nLiv Heeney discovered she had a faulty gene which puts her at risk of early onset dementia \r\nWhen Liv Heeney was 28, she discovered she had a faulty gene that would probabl… [+4797 chars]"
+      "title": "Chris and Xand from What's Up Docs? explain how they make time for nature",
+      "description": "Chris explains how he makes time for nature, even when living in a big city.",
+      "url": "https://www.bbc.com/videos/cj6x481y43wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - Health",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/521e/live/d9b67ef0-a298-11f0-928c-71dbb8619e94.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2025-10-06T12:28:25+00:00"
     },
     {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
       "author": null,
-      "title": "Fiji's HIV cases surge due to bluetoothing, chemsex and needle-sharing - BBC",
-      "description": "The small South Pacific nation is facing one of the world's fastest growing HIV epidemics.",
-      "url": "https://www.bbc.com/news/articles/c0m42dwvlk8o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11fb/live/1d4988b0-9f6f-11f0-99d3-79886bca9dc5.jpg",
-      "publishedAt": "2025-10-05T00:58:12Z",
-      "content": "Intravenous drug use is fuelling Fiji's HIV epidemic\r\nTen: that's the age of the youngest person with HIV that Sesenieli Naitala has ever met.\r\nWhen she first started Fiji's Survivor Advocacy Network… [+8316 chars]"
+      "title": "Nobel Prize for discovering immune security guards",
+      "description": "The prize-winning work explains how the immune system attacks hostile infections, but not the body's own cells.",
+      "url": "https://www.bbc.com/news/articles/c2knwvpd7vno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - Health",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d22/live/4ce477f0-a29a-11f0-b5fb-09dc1426da0e.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2025-10-06T10:00:08+00:00"
     },
     {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
+      "author": "Caroline Hopkins Legaspi and Hoi Chan",
+      "title": "How Much Do You Really Know About Sleep?",
+      "description": "Test your knowledge with this quiz.",
+      "url": "https://www.nytimes.com/2025/10/06/well/mind/how-to-get-better-sleep.html",
+      "source": "The New York Times",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-10-06T09:00:24+00:00"
+    },
+    {
       "author": null,
-      "title": "Freshers' flu: Why is it so hard for students to dodge? - BBC",
-      "description": "It's not the actual flu, and it's rarely serious, but when thousands of students arrive on campus they bring a cocktail of viruses.",
-      "url": "https://www.bbc.com/news/articles/c147218x7rgo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5c9b/live/2dd015c0-a0b2-11f0-ac11-a11de8fbd7b8.png",
-      "publishedAt": "2025-10-04T23:05:38Z",
-      "content": "It's the second week of term. You've finally figured out how to use the washing machine, your flatmates are starting to feel like friends, and the whirlwind of freshers' week is behind you. \r\nBut jus… [+7837 chars]"
+      "title": "Promise of precision medicine and immunotherapies for cancer care - The Washington Post",
+      "description": "Promise of precision medicine and immunotherapies for cancer care&nbsp;&nbsp;The Washington PostScience & Medicine: Hope for patients with the deadliest cancers&nbsp;&nbsp;Texas Public Radio | TPRCancer’s New Era&nbsp;&nbsp;Chicago Health MagazineWorld Cancer Research Day: Innovative approaches bringing hope to cancer patients&nbsp;&nbsp;Express HealthcareCancer research, personalized medicine bring hope to patients&nbsp;&nbsp;Wausau Pilot & Review",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZndXWUxOZkZGS09jUTVYMHlfemxnU0Naa3FRSmFrQkkwRzl4Z3dseFdTZDRIRFd2X1JCUXg2aXp0bklFVGhlUlNJbVpvcEN1VXctMjZ3ZUNYamZUTldhcEJrclhlVmVKREtMLXRsRUdYcktHbURPQlNVYUFvWXk5N0JuWnBwY3NTMFd0bnBJdWFkOEhORWUtekVWSGJZOVVVbW1IdHpUVWlxYWtWbk5PaEdqWnNiQ29SVXc?oc=5",
+      "source": "Google News Health US",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-10-06T07:46:18+00:00"
     },
     {
-      "source": {
-        "id": null,
-        "name": "HuffPost"
-      },
-      "author": "Sebastian Murdock",
-      "title": "South Carolina Confirms Measles Outbreak With U.S. Cases At 25-Year High - HuffPost",
-      "description": "\"The people involved in the outbreak are unvaccinated and did not have immunity from a previous measles infection,\" the state's health agency confirmed.",
-      "url": "https://www.huffpost.com/entry/south-carolina-confirms-measles-outbreak-with-us-cases-at-25-year-high_n_68e152b6e4b01314b83e05ae",
-      "urlToImage": "https://img.huffingtonpost.com/asset/68e1609c14000004e25c6e7e.jpeg?ops=1200_630",
-      "publishedAt": "2025-10-04T18:27:48Z",
-      "content": "South Carolina officials have confirmed an outbreak of measles in the state, contributing to what has been the highest level of cases in the U.S. since the disease was declared eliminated in 2000. \r\n… [+2783 chars]"
+      "author": "Adeel Hassan",
+      "title": "Costco to Sell Ozempic and Wegovy, Weight-Loss Wonder Drugs",
+      "description": "Costco members will pay $499 a month out of pocket, the same price offered at CVS and Walmart, and on the manufacturer’s direct-to-consumer website.",
+      "url": "https://www.nytimes.com/2025/10/05/health/ozempic-wegovy-costco.html",
+      "source": "The New York Times",
+      "image": "https://static01.nyt.com/images/2025/10/04/multimedia/04xp-costco-hgcf/04xp-costco-hgcf-mediumSquareAt3X.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-10-05T19:47:27+00:00"
     },
     {
-      "source": {
-        "id": null,
-        "name": "Eatingwell.com"
-      },
-      "author": "https://www.facebook.com/EatingWell/",
-      "title": "What Happens to Your Body When You Eat Cinnamon Every Day - EatingWell",
-      "description": "The antioxidants in cinnamon may offer several health benefits, including better blood sugar, improved heart health and lower levels of inflammation.",
-      "url": "https://www.eatingwell.com/benefits-of-cinnamon-11822645",
-      "urlToImage": "https://www.eatingwell.com/thmb/BuG_TBtLF-nv_RD6_5xWUtsGcik=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/What-Happens-to-Your-Body-When-You-Eat-Cinnamon-Every-Day-b8c8da68de8a4fe1ac26ca803b95a72f.jpg",
-      "publishedAt": "2025-10-04T17:30:00Z",
-      "content": "Cinnamon isnt just a cozy spice for your latte or oatmealits one of the oldest known spices, used for centuries for both flavor and potential health benefits. And according to dietitians, modern rese… [+6396 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
       "author": null,
-      "title": "The vitamin D mistake weakening your immunity - ScienceDaily",
-      "description": "Scientists discovered that vitamin D2 supplements can lower levels of vitamin D3, the form the body uses most effectively. Unlike D2, vitamin D3 enhances the immune system’s first line of defense against infections. This raises questions about which type of s…",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251004092911.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/vitamin-d-blocks.webp",
-      "publishedAt": "2025-10-04T15:35:49Z",
-      "content": "Taking vitamin D2 might lower the body's levels of the more efficient form of vitamin D, vitamin D3, according to new research from the University of Surrey, John Innes Centre and Quadram Institute B… [+3163 chars]"
+      "title": "Their parents never got them vaccinated. As young adults, they faced a choice. - The Washington Post",
+      "description": "Their parents never got them vaccinated. As young adults, they faced a choice.&nbsp;&nbsp;The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMlRibnl0TlpHX2FXVkExd29EVF9SdU9BbDQtMjJxWEtvcUpyMEdrVVdERlFVSjZBbF9NSF9sZENmMVBhd25MemNaN1dPMVczUUo2X0xDaWtaUWZvVlljMlM5MDBOdXpMQzVvWlJ3QXJOSkZqUDFEdzR1cml4bDJtNlNYVHJ1RjBBeWlDM2NDN1NZdTFldVk3NUtR?oc=5",
+      "source": "Google News Health US",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-10-05T10:32:04+00:00"
     },
     {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Lifestyle Desk",
-      "title": "Using phone sitting on the toilet? Dangers beyond Hemorrhoids - Times of India",
-      "description": "It’s comfy, it’s private – and hey, you’ve got your phone in hand. Many of us treat the bathroom as a mini-retreat where we catch up on news, social media, or emails while seated on the toilet. It seems harmless. But recent reports and medical experts are rai…",
-      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/using-phone-sitting-on-the-toilet-dangers-beyond-hemorrhoids/photostory/124304642.cms",
-      "urlToImage": "https://static.toiimg.com/photo/124304646.cms",
-      "publishedAt": "2025-10-04T14:30:00Z",
-      "content": "Its comfy, its private and hey, youve got your phone in hand. Many of us treat the bathroom as a mini-retreat where we catch up on news, social media, or emails while seated on the toilet. It seems h… [+1336 chars]"
+      "author": "Danielle Friedman",
+      "title": "What I Learned From a 102-Year-Old Yoga Master",
+      "description": "When a fitness reporter traveled to a village in France to meet centenarian yoga teacher Charlotte Chopin, she was reminded that movement didn’t have to be complicated.",
+      "url": "https://www.nytimes.com/2025/10/05/insider/what-i-learned-from-a-102-year-old-yoga-master.html",
+      "source": "The New York Times",
+      "image": "https://static01.nyt.com/images/2025/10/05/multimedia/05INISDER-WELL-CHOPIN1-kfqp/05INISDER-WELL-CHOPIN1-kfqp-mediumSquareAt3X.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-10-05T09:01:10+00:00"
     },
     {
-      "source": {
-        "id": null,
-        "name": "Medical Xpress"
-      },
-      "author": "Andreas L. Birkenfeld, Reiner Jumpertz-von Schwartzenberg",
-      "title": "Prediabetes remission possible without dropping pounds, new study finds - Medical Xpress",
-      "description": "There's a long-held belief in diabetes prevention that weight loss is the main way to lower disease risk. Our new study challenges this.",
-      "url": "https://medicalxpress.com/news/2025-09-prediabetes-remission-pounds.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/weight-1.jpg",
-      "publishedAt": "2025-10-04T14:20:01Z",
-      "content": "There's a long-held belief in diabetes prevention that weight loss is the main way to lower disease risk. Our new study challenges this.\r\nFor decades, people diagnosed with prediabetesa condition aff… [+4981 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PsyPost"
-      },
-      "author": "Eric W. Dolan",
-      "title": "Neuroscientists are starting to unravel the amygdala's complexity, shedding new light on PTSD - PsyPost",
-      "description": "Often labeled the brain’s fear center, the amygdala is much more complex than that. A study in Translational Psychiatry suggests that PTSD is linked to altered connectivity in one of its subregions, with potential implications for emotion and body awareness.",
-      "url": "https://www.psypost.org/neuroscientists-are-starting-to-unravel-the-amygdalas-complexity-shedding-new-light-on-ptsd/",
-      "urlToImage": "https://www.psypost.org/wp-content/uploads/2015/08/Hippocampus-prefrontal-cortex-amygdala-anterior-cingulate-cortex-by-NIMH.jpg",
-      "publishedAt": "2025-10-04T14:04:10Z",
-      "content": "A new study published in Translational Psychiatry provides evidence that posttraumatic stress disorder may be linked to altered communication between specific parts of the amygdala and other brain re… [+10693 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Lifestyle Desk",
-      "title": "Cancer alert: Oral microbes identified as new risk factor for pancreatic cancer (early signs, other risk - Times of India",
-      "description": "A groundbreaking study reveals a surprising link between oral microbes and pancreatic cancer risk. Researchers found certain bacteria and fungi, inclu",
-      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/cancer-alert-oral-microbes-identified-as-new-risk-factor-for-pancreatic-cancer-early-signs-other-risk-factors-and-prevention-tips/articleshow/124304435.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-124304458,width-1070,height-580,imgsize-34170,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2025-10-04T13:30:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Jocoreport.com"
-      },
       "author": null,
-      "title": "New State Orders Let Pharmacists Test, Treat Flu - JoCo Report",
-      "description": "RALEIGH – The North Carolina Department of Health and Human Services has announced Standing Orders issued by State Health Director Dr. Larry Greenblatt to allow pharmacists at retail location…",
-      "url": "https://jocoreport.com/new-state-orders-let-pharmacists-test-treat-flu/",
-      "urlToImage": "https://jocoreport.com/wp-content/uploads/2019/06/cropped-JCR-Icon.jpg",
-      "publishedAt": "2025-10-04T12:44:00Z",
-      "content": "RALEIGH – The North Carolina Department of Health and Human Services has announced Standing Orders issued by State Health Director Dr. Larry Greenblatt to allow pharmacists at retail locations to tes… [+3815 chars]"
+      "title": "More people turn to acupuncture for back pain as study shows relief",
+      "description": "A NIH-funded study shows acupuncture treatments significantly reduce chronic low back pain and disability in adults 65 and older compared to usual medical care alone.",
+      "url": "https://www.foxnews.com/health/more-people-turn-acupuncture-back-pain-without-opioids-study-shows-relief",
+      "source": "FOX News - Health",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/acupuncture-chronic-back-pain-relief-fox-news-.jpg?ve=1&tl=1",
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-10-04T18:15:34+00:00"
     },
     {
-      "source": {
-        "id": null,
-        "name": "Eatingwell.com"
-      },
-      "author": "https://www.facebook.com/EatingWell/",
-      "title": "5 Foods to Help Reduce Your Risk of Cognitive Decline After 55, According to Experts - EatingWell",
-      "description": "Discover the top five foods that may help reduce the risk of cognitive decline after 55, plus simple lifestyle changes to support long-term brain health.",
-      "url": "https://www.eatingwell.com/foods-reduce-risk-cognitive-decline-after-55-11822443",
-      "urlToImage": "https://www.eatingwell.com/thmb/smIE3l4lICaNs5Z7G79zrMePHn8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Foods-People-over-55-Should-Eat-to-Reduce-their-Risk-of-Cognitive-Decline-207afbd430bf443ca04fe3216845b222.jpg",
-      "publishedAt": "2025-10-04T12:30:00Z",
-      "content": "What if choosing your next snack or dinner dish could help keep your mind sharp and vibrant for years to come? After age 55, its not just our joints that creak; our brains crave some extra TLC, too. … [+8255 chars]"
+      "author": "Paula Span",
+      "title": "Why Brittle Bones Aren’t Just a Woman’s Problem",
+      "description": "More men are now living long enough to develop osteoporosis. But few are aware of the risk, and fewer still are screened and treated.",
+      "url": "https://www.nytimes.com/2025/10/04/health/osteoporosis-men.html",
+      "source": "The New York Times",
+      "image": "https://static01.nyt.com/images/2025/10/07/science/03sci-span-osteoporosis-men/03sci-span-osteoporosis-men-mediumSquareAt3X.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-10-04T14:55:21+00:00"
     },
     {
-      "source": {
-        "id": null,
-        "name": "SciTechDaily"
-      },
       "author": null,
-      "title": "Scientists Supercharge Vinegar To Kill Deadly Superbugs - SciTechDaily",
-      "description": "Vinegar combined with nanoparticles killed resistant bacteria. The method may aid in fighting antimicrobial resistance. Chronic wounds that fail to heal are often the result of bacterial infections, posing serious risks for older adults as well as individuals…",
-      "url": "https://scitechdaily.com/?p=496876",
-      "urlToImage": "https://scitechdaily.com/images/Vinegar-Bowl.jpg",
-      "publishedAt": "2025-10-04T12:25:22Z",
-      "content": "By combining vinegar with engineered nanoparticles, researchers have uncovered a powerful new method to kill stubborn bacteria. Credit: Shutterstock\r\nVinegar combined with nanoparticles killed resist… [+3379 chars]"
+      "title": "Medical Mysteries: A high-schooler with hip pain, then a life-threatening diagnosis - The Washington Post",
+      "description": "Medical Mysteries: A high-schooler with hip pain, then a life-threatening diagnosis&nbsp;&nbsp;The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaVF1U1RsbGlDWF9fNDR2YVdxNzZvSzJ5UG9HdXFTejhKZnJpaFRIOFI0T0t5ajRtR1BQNF9mUFp2WVhXRW1fNDlsR3FfdmdySVpIMFo1M2FZamVHRUI1RWxzSU5fMnZUSVVyUjZTRS1EanpYS0pJOEszV285UHhYUXhoOTF6WWhKQkt6bA?oc=5",
+      "source": "Google News Health US",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-10-04T11:32:01+00:00"
     },
     {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Margherita Bassi",
-      "title": "Scientists Discover Surprising Allergy Fix: UV Light - Gizmodo",
-      "description": "Allergies to things like cats and dust mites are tough to mitigate because the allergens can stick around long after the animals are gone.",
-      "url": "https://gizmodo.com/scientists-discover-surprising-allergy-fix-uv-light-2000665955",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/09/UV-lights-1200x675.jpg",
-      "publishedAt": "2025-10-04T12:00:04Z",
-      "content": "People with allergies can suffer long after the offending organism has been removed. Researchers, however, are now envisioning a future with portable devices that can clear a room of airborne allerge… [+4280 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "etimes.in",
-      "title": "12 foods every growing child should eat daily - The Times of India",
-      "description": "Ensuring children's optimal growth and cognitive development hinges on a daily, nutrient-rich diet. Read on as we highlight 12 essential foods, from f",
-      "url": "https://timesofindia.indiatimes.com/life-style/parenting/moments/12-foods-every-growing-child-should-eat-daily/articleshow/124305981.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-124307121,width-1070,height-580,imgsize-42344,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2025-10-04T11:42:00Z",
-      "content": "Navratri 2025: Shraddha Kapoor, Alia Bhatt, and other divas' inspired pink ethnic looks for day 9"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "The Conversation",
-      "title": "How different mushrooms learned the same psychedelic trick - Ars Technica",
-      "description": "Scientists may have additional tools to produce psilocybin to use for medical purposes.",
-      "url": "https://theconversation.com/how-different-mushrooms-learned-the-same-psychedelic-trick-266401",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/GettyImages-1291355003-1152x648.jpg",
-      "publishedAt": "2025-10-04T11:00:07Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Rachel Zimmerman",
-      "title": "A high-schooler with hip pain, then a life-threatening diagnosis - The Washington Post",
-      "description": "One doctor told her the hip pain was a twisted pelvis. Another said the pain was just in her head.",
-      "url": "https://www.washingtonpost.com/health/2025/10/04/rare-medical-condition-spinal-cord/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FGZIPVJI5BHL5GKLPLWTWTP7MQ.jpg&w=1440",
-      "publishedAt": "2025-10-04T10:08:57Z",
-      "content": "Lauren Casey was 15 and a tenor sax player in her Minnesota high school marching band when the pain in her hip and lower back became severe. It hurt when she walked and when she stood for hours at he… [+80 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
       "author": null,
-      "title": "Lyme disease: 'My independence is gone completely' after tick bite - BBC",
-      "description": "Maia Pavey was left bedridden after Covid-19 reactivated an infection from a tick bite as a teenager.",
-      "url": "https://www.bbc.com/news/articles/c99glenl34jo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9753/live/6ff136e0-9f73-11f0-9ccd-4dc2d8fa5ad2.jpg",
-      "publishedAt": "2025-10-04T07:03:59Z",
-      "content": "Maia Pavey says her independence has gone after long Covid reactivated Lyme disease \r\nA few years ago, Maia Pavey was busy running a photo lab studio in Woolwich. Now she is bedridden, suffering \"cru… [+3867 chars]"
+      "title": "New vaccination maps reveal outbreak risks. Is your county protected? - USA Today",
+      "description": "New vaccination maps reveal outbreak risks. Is your county protected?&nbsp;&nbsp;USA TodayUS Breaks New Measles Record, Surpassing 1,500 Cases – The Most In 33 Years&nbsp;&nbsp;IFLScienceNBC News: US could lose measles-free status ᐉ News from Fakti.bg - Здраве&nbsp;&nbsp;fakti.bgNew vaccination maps reveal outbreak risk. Is your county in NY protected?&nbsp;&nbsp;LohudMeasles cases are still high – are we at a tipping point?&nbsp;&nbsp;The World Economic Forum",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbS1JbmVXYi0yMXRjalRVNFY0NDRudmhQZ2FOckdWajY1SzR0VDB4bElwVnJ1R3BDamk3N3BCV0ZYckt4d0o3MG05UnVub2lCRVJ3S2xDWTktSE5mWjJuSlV5R3pkV0NuLXN5ckh3WnBlYVItX2tidDBRa254Q3ZERDR3VnVIRDVtTjVMMTBVQXJnd2Q1UEtXbjFUNHlfTFhwLXZsRnV4dWkwckYwdTU3MWtRYnhOMjJy?oc=5",
+      "source": "Google News Health US",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-10-04T10:40:58+00:00"
     },
     {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "Tavishi Dogra",
-      "title": "Cardiologist shares 3 types of foods he ate to lose hidden fat and protect his heart health | Health - Hindustan Times",
-      "description": "Cardiologist Dr Sundeep Mishra recommends adding fatty fish, leafy greens, and whole grains to your diet to reduce visceral fat and improve heart health. | Health",
-      "url": "https://www.hindustantimes.com/lifestyle/health/cardiologist-shares-3-foods-he-ate-to-lose-hidden-visceral-fat-and-protect-heart-health-101759213784348.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/09/30/1600x900/logo/collage_1759215726710_1759215748559.png",
-      "publishedAt": "2025-10-04T06:39:17Z",
-      "content": "As more people become aware of the dangers of hidden visceral fat, many are working to improve their heart health. To manage this type of fat effectively, it is important to employ effective techniqu… [+4669 chars]"
+      "author": "Cindy Kuzma and Theodore Tae",
+      "title": "8 Exercises to Improve Your Grip Strength",
+      "description": "This simple routine can help make everyday tasks easier — and you can do it while sitting at your desk.",
+      "url": "https://www.nytimes.com/2025/10/04/well/move/desk-workout-wrist-grip-strength.html",
+      "source": "The New York Times",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-10-04T09:00:23+00:00"
     },
     {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
       "author": null,
-      "title": "Surprising study reveals what really kills fatty liver disease patients - ScienceDaily",
-      "description": "Metabolic dysfunction-associated steatotic liver disease (MASLD) affects over a third of the global population and is linked to serious health problems. A new study has revealed that high blood pressure, diabetes, and low HDL cholesterol are the deadliest car…",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251003033924.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/magnifying-glass-diseased-liver.webp",
-      "publishedAt": "2025-10-04T05:57:08Z",
-      "content": "More than a third of the world's population is affected by metabolic dysfunction-associated steatotic liver disease, or MASLD, the most common chronic liver disease in the world.MASLD occurs when fat… [+3447 chars]"
+      "title": "Expert 'kept awake at night' over fear of deadly brain disease passed on in transfusions - Sky News",
+      "description": "Expert 'kept awake at night' over fear of deadly brain disease passed on in transfusions&nbsp;&nbsp;Sky News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSUVwbFlMS253ZmpSYUc2RjBLb1hIZHNjMlNfeFl0TGdlY1pBZWt5VWxmRFV1OUdSOHRhUjAwV1ZTcmowRTBkbWI3MmgyZWFuWUp4RTYwLUZMc2VNOUR1WDhCR0tTN1Jpd2NldWhMN0YyMzN1VFNDRFpET01DXzhLdzJkT1V6Z01xTUdEaWNrUXZLUjFPNldRMlJFVFN1XzgxRlZlRmpsZGNZeEtYdU8yR29fUnkzRldxVDk5QXRIRQ?oc=5",
+      "source": "Google News Health GB",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2025-10-04T01:33:18+00:00"
     },
     {
-      "source": {
-        "id": "medical-news-today",
-        "name": "Medical News Today"
-      },
-      "author": "Tim Newman",
-      "title": "Is autism a mark of human evolution? - Medical News Today",
-      "description": "Autism in humans may be a byproduct of the rapid evolution of human cognitive traits, a new study argues.",
-      "url": "https://www.medicalnewstoday.com/articles/autism-human-evolutionary-processes",
-      "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2025/10/Autism-Human-Intelligence-Child-Play-1200-628-facebook.jpg",
-      "publishedAt": "2025-10-04T05:21:59Z",
-      "content": "<ul><li>A new study concludes that the speed at which the human brain evolved may help explain why our species experiences autism.</li><li>According to the authors, certain genes associated with auti… [+8573 chars]"
+      "author": "Ellen Barry",
+      "title": "Can a Diagnosis Make You Better?",
+      "description": "As our diagnostic categories expand to include ever milder versions of disease, researchers propose that the act of naming a malady can itself bring relief.",
+      "url": "https://www.nytimes.com/2025/10/03/health/can-a-diagnosis-make-you-better.html",
+      "source": "The New York Times",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-10-03T13:04:49+00:00"
     },
     {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
+      "author": "Jancee Dunn",
+      "title": "Got A Problem? Here’s How to Solve It",
+      "description": "You probably don’t need more time.",
+      "url": "https://www.nytimes.com/2025/10/03/well/solve-problem-tips-fixable.html",
+      "source": "The New York Times",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-10-03T09:03:36+00:00"
+    },
+    {
+      "author": "Lisa Sanders, M.D.",
+      "title": "She Had a Dull Ache in Her Chest. Was It a Heart Attack?",
+      "description": "The woman, a doctor, was fit and healthy, but even a small amount of exertion left her out of breath.",
+      "url": "https://www.nytimes.com/2025/10/03/well/broken-heart-syndrome-takotsubo-cardiomyopathy.html",
+      "source": "The New York Times",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-10-03T09:01:38+00:00"
+    },
+    {
+      "author": "Benjamin Mueller",
+      "title": "Kennedy Fires N.I.H. Scientist Who Filed Whistle-Blower Complaint",
+      "description": "Dr. Jeanne Marrazzo, who was on administrative leave, alleged that the Trump administration had defied court orders and undermined vaccine research.",
+      "url": "https://www.nytimes.com/2025/10/02/health/kennedy-marrazzo-nih.html",
+      "source": "The New York Times",
+      "image": "https://static01.nyt.com/images/2025/10/02/science/02hs-whistleblower/02hs-whistleblower-mediumSquareAt3X.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-10-02T22:29:11+00:00"
+    },
+    {
       "author": null,
-      "title": "Doctors stunned by a cheap drug’s power against colon cancer - ScienceDaily",
-      "description": "A Scandinavian clinical trial has revealed that low-dose aspirin can halve the risk of colon and rectal cancer recurrence in patients with specific genetic mutations. The research, involving over 3,500 patients, is the first randomized study to confirm aspiri…",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251003033921.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/holding-round-white-aspirin-pill.webp",
-      "publishedAt": "2025-10-04T05:05:35Z",
-      "content": "A Swedish-led research team at Karolinska Institutet and Karolinska University Hospital has shown in a new randomized clinical trial that a low dose of the well-known medicine aspirin halves the risk… [+3753 chars]"
+      "title": "Heart surgeon's failures contributed to multiple deaths",
+      "description": "Karen Booth carried out operations she wasn’t skilled enough to perform, an investigation found.",
+      "url": "https://www.bbc.com/news/articles/ce3yz4q9p4po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - Health",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a73/live/fed564c0-9f60-11f0-b741-177e3e2c2fc7.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2025-10-02T20:43:32+00:00"
     },
     {
-      "source": {
-        "id": null,
-        "name": "Boredpanda.com"
-      },
-      "author": "Analice Couto",
-      "title": "Woman Reveals 2 Major Symptoms Her Doctor Misunderstood Before Shocking Cancer Diagnosis - AOL.com",
-      "description": "Carla Peoples was used to a busy, glamorous life.  The truth, she would later learn in a moment that felt like the world stopped, was far more serious: ovari...",
-      "url": "https://www.boredpanda.com/woman-reveals-2-big-symptoms-before-shock-ovarian-cancer-diagnosis/",
-      "urlToImage": "https://media.zenfs.com/en/aol_bored_panda_979/c392e308bedb7a77d56078df8ec45490",
-      "publishedAt": "2025-10-04T02:12:53Z",
-      "content": "Carla Peoples was used to a busy, glamorous life. As a society columnist in Galveston, Texas, she often slipped into sparkling ball gowns to cover galas and charity parties. \r\nShe rarely thought abou… [+6839 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Michelle Starr",
-      "title": "Scientists Identified Structural, Brain-Wide Changes During Menstruation - ScienceAlert",
-      "description": "The constant ebb and flow of hormones that guide the menstrual cycle don't just affect reproductive organs – they also reshape the brain, and a 2023 study gives us insight into how this happens.",
-      "url": "https://www.sciencealert.com/scientists-identified-structural-brain-wide-changes-during-menstruation",
-      "urlToImage": "https://www.sciencealert.com/images/2023/10/period-brain3.png",
-      "publishedAt": "2025-10-03T23:01:10Z",
-      "content": "The constant ebb and flow of hormones that guide the menstrual cycle don't just affect reproductive organs they also reshape the brain, and a 2023 study gives us insight into how this happens.\r\nLed b… [+3985 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SFGate"
-      },
-      "author": "Anna FitzGerald Guth",
-      "title": "Dangerous mosquitoes that like warm temperatures found in East Bay - SFGATE",
-      "description": "Aedes aegypti mosquitoes have been linked to cases of dengue fever in California.",
-      "url": "https://www.sfgate.com/bayarea/article/aedes-aegypti-mosquitoes-found-east-bay-21083526.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/54/56/43/28502266/3/rawImage.jpg",
-      "publishedAt": "2025-10-03T22:57:28Z",
-      "content": "FILE: Aedes aegypti mosquitoes have been linked to cases of dengue fever in California.\r\nSmith Collection/Gado/Getty Images\r\nHealth officials have warned residents to take steps to protect themselves… [+2899 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "David Nield",
-      "title": "Drugs Like Ozempic Quieten 'Food Noise,' in Our Brains, Study Finds - ScienceAlert",
-      "description": "Obsessive, intrusive thoughts about eating – known as food noise – can be quieted through semaglutide drugs such as Ozempic, new research has revealed, further boosting the effectiveness of these treatments for weight loss.",
-      "url": "https://www.sciencealert.com/drugs-like-ozempic-quieten-food-noise-in-our-brains-study-finds",
-      "urlToImage": "https://www.sciencealert.com/images/2025/09/BigEat.jpg",
-      "publishedAt": "2025-10-03T22:01:07Z",
-      "content": "Obsessive, intrusive thoughts about eating known as food noise can be quieted through semaglutide drugs such as Ozempic, new research has revealed, further boosting the effectiveness of these treatme… [+3507 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "mlive.com"
-      },
-      "author": "Aya Miller | amiller2@mlive.com",
-      "title": "Tuberculosis confirmed at school district, students asked to check for symptoms - MLive.com",
-      "description": "School and health officials are working to develop a response plan and will contact those who may have been exposed to the contagious disease.",
-      "url": "https://www.mlive.com/news/kalamazoo/2025/10/tuberculosis-confirmed-at-school-district-students-asked-to-check-for-symptoms.html",
-      "urlToImage": "https://www.mlive.com/resizer/v2/QLGMKFJ6ANBYRJEP2BNRSHJMMA.JPG?auth=ae39de2e38dce370fb1c0ae22636e27f8caf465422db645256c029ef9336e569&width=1280&smart=true&quality=90",
-      "publishedAt": "2025-10-03T21:01:00Z",
-      "content": "FENNVILLE, MI -- An individual at Fennville Public Schools has been diagnosed with active tuberculosis. \r\nThe district has asked parents and students to monitor for signs of tuberculosis. If symptoms… [+1342 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mit.edu"
-      },
-      "author": "Rachel Gordon | MIT CSAIL",
-      "title": "AI maps how a new antibiotic targets gut bacteria - MIT News",
-      "description": "Researchers used a generative AI model to reveal how a narrow-spectrum antibiotic attacks disease-causing bacteria, speeding up a process that normally takes years.",
-      "url": "https://news.mit.edu/2025/ai-maps-how-new-antibiotic-targets-gut-bacteria-1003",
-      "urlToImage": "https://news.mit.edu/sites/default/files/images/202510/mit-csail-enterololin.jpg",
-      "publishedAt": "2025-10-03T21:00:00Z",
-      "content": "For patients with inflammatory bowel disease, antibiotics can be a double-edged sword. The broad-spectrum drugs often prescribed for gut flare-ups can kill helpful microbes alongside harmful ones, so… [+7196 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Verywellhealth.com"
-      },
-      "author": "https://www.facebook.com/verywell",
-      "title": "What Happens to Your Body When You Eat Berries Every Day - Verywell Health",
-      "description": "According to new research, adding three servings of flavonoid-rich foods to your diet each day—including fruit, vegetables, grains, tea, or wine—may help you stay healthier for longer.",
-      "url": "https://www.verywellhealth.com/daily-berries-longevity-11824320",
-      "urlToImage": "https://www.verywellhealth.com/thmb/r0_CLtLJIZnG2dOtj8AJPLIxBeE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1718516575-4dc2bf2b3ac24913b3375c7189ddded7.jpg",
-      "publishedAt": "2025-10-03T20:59:11Z",
-      "content": "<ul><li>Eating three daily servings of flavonoid-rich foods, like berries, may support healthier aging.</li><li>Flavonoids have antioxidant and anti-inflammatory effects that can help protect cells, … [+2569 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PEOPLE"
-      },
-      "author": "Vanessa Etienne",
-      "title": "Woman Shares ‘Signs I Ignored’ Before Stage 4 Cancer Diagnosis: ‘My Body Whispered Long Before It Ever Screamed’ - Yahoo News Canada",
-      "description": "“Listening to your body might just save your life,” said Jessica Farrington on TikTok",
-      "url": "https://people.com/woman-shares-signs-ignored-before-stage-4-cancer-diagnosis-11824287",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/q.PRHEs3lKUJw0eHy0VrNQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/people_218/41ed945f3beb49bc431bf87776053c4e",
-      "publishedAt": "2025-10-03T20:58:54Z",
-      "content": "NEED TO KNOW\r\n<ul><li>Jessica Farrington shared on social media the signs of cancer that she ignored before being diagnosed with non-Hodgkin follicular lymphoma\r\n</li><li>The TikTok user is hoping to… [+3068 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Neurosciencenews.com"
-      },
-      "author": "Neuroscience News",
-      "title": "Glioblastoma Found to Erode Skull and Hijack Immune System - Neuroscience News",
-      "description": "Glioblastoma, the most lethal brain cancer, doesn’t just damage the brain—it erodes the skull and disrupts the immune system by reshaping marrow inside the skull.",
-      "url": "https://neurosciencenews.com/glioblastoma-cancer-immune-system-29766/",
-      "urlToImage": "https://neurosciencenews.com/files/2025/10/gbm-cancer-skull-neurosiene.jpg",
-      "publishedAt": "2025-10-03T20:23:00Z",
-      "content": "Summary: Glioblastoma, the most lethal brain cancer, doesnt just damage the brainit erodes the skull and disrupts the immune system by reshaping marrow inside the skull. Researchers discovered that t… [+8437 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Lifestyle Desk",
-      "title": "Traditional Brahmi Kadha: Why it should be consumed by children, and those over 45 - The Times of India",
-      "description": "Brahmi has active compounds that have properties to maintain sharp memories. The medicinal compounds of bacosides A and B strengthen neuronal communic",
-      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/home-remedies/traditional-brahmi-kadha-why-it-should-be-consumed-by-children-and-those-over-45/articleshow/124295078.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-124295106,width-1070,height-580,imgsize-54854,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2025-10-03T19:31:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZME Science"
-      },
-      "author": "Tibi Puiu",
-      "title": "The Surprising Link Between Vaccines and Dementia - ZME Science",
-      "description": "Could vaccines for shingles, flu, and RSV help protect the aging brain? Evidence suggests so.",
-      "url": "https://www.zmescience.com/medicine/the-surprising-link-between-vaccines-and-dementia/",
-      "urlToImage": "https://cdn.zmescience.com/wp-content/uploads/2025/10/andandand0017_The_Surprising_Link_Between_Vaccines_and_Dement_b1b7f2b5-f802-407d-a94a-51f4fd2a068f_1.png",
-      "publishedAt": "2025-10-03T19:10:09Z",
-      "content": "Credit: ZME Science/Midjourney. This illustration is AI-generated. \r\nAn unexpected idea is emerging in medicine: vaccines may protect not only against infections, but also against dementia.\r\nThe evid… [+6270 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Michael Irving",
-      "title": "The Strange Science Behind Ghostly Lights That Have Haunted Us For Centuries - ScienceAlert",
-      "description": "Ghostly lights dancing in midair in swamps, forests, and even graveyards have been reported by cultures all over the world, for centuries.",
-      "url": "https://www.sciencealert.com/the-strange-science-behind-ghostly-lights-that-have-haunted-us-for-centuries",
-      "urlToImage": "https://www.sciencealert.com/images/2025/09/Will-o-the-wisp_and_snake_by_Hermann_Hendrich_1823.jpg",
-      "publishedAt": "2025-10-03T19:02:54Z",
-      "content": "Ghostly lights dancing in midair in swamps, forests, and even graveyards have been reported by cultures all over the world, for centuries. According to a new study, there could be a logical explanati… [+2128 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Lifestyle Desk",
-      "title": "India’s young hearts at risk: Why the 30s have become the new danger zone - Times of India",
-      "description": "Heart disease is now alarmingly affecting young Indians in their 20s, 30s, and early 40s, a significant shift confirmed by recent studies. Data shows",
-      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/indias-young-hearts-at-risk-why-the-30s-have-become-the-new-danger-zone/articleshow/124295054.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-124297552,width-1070,height-580,imgsize-1528174,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2025-10-03T18:52:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SciTechDaily"
-      },
       "author": null,
-      "title": "Scientists Discover Naturally Produced Molecule That Switches Off Hunger in the Brain - SciTechDaily",
-      "description": "Exercise produces Lac-Phe, which suppresses appetite by acting on brain neurons. This mechanism could inspire new weight-loss treatments. Researchers from Baylor College of Medicine, the Jan and Dan Duncan Neurological Research Institute (Duncan NRI) at Texas…",
-      "url": "https://scitechdaily.com/scientists-discover-naturally-produced-molecule-that-switches-off-hunger-in-the-brain/",
-      "urlToImage": "https://scitechdaily.com/images/Weight-Loss-Scale-Concept-1.jpg",
-      "publishedAt": "2025-10-03T18:31:13Z",
-      "content": "Researchers have identified how a molecule produced during exercise curbs appetite in the brain, pointing to potential new approaches for weight control. Credit: Stock\r\nExercise produces Lac-Phe, whi… [+4855 chars]"
+      "title": "'I have Tourette's - just treat us the same as everyone else'",
+      "description": "John Davidson tells us what it is like to have his life and journey with Tourette’s syndrome made into a film.",
+      "url": "https://www.bbc.com/news/videos/cy4r97erenko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - Health",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/475f/live/06eff280-9fb9-11f0-92db-77261a15b9d2.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2025-10-02T17:58:58+00:00"
     },
     {
-      "source": {
-        "id": null,
-        "name": "Medical Xpress"
-      },
-      "author": "Institute for Basic Science",
-      "title": "Tiny sugars in the brain disrupt emotional circuits, fueling depression - Medical Xpress",
-      "description": "Depression is a serious disorder that disrupts daily life through lethargy, sleep disturbance, and social withdrawal, and also increases the risk of suicide. The number of depression patients has steadily increased over the years, affecting more than 280 mill…",
-      "url": "https://medicalxpress.com/news/2025-10-tiny-sugars-brain-disrupt-emotional.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/tiny-sugars-in-the-bra.jpg",
-      "publishedAt": "2025-10-03T18:00:06Z",
-      "content": "Depression is a serious disorder that disrupts daily life through lethargy, sleep disturbance, and social withdrawal, and also increases the risk of suicide. The number of depression patients has ste… [+5808 chars]"
+      "author": "Dana G. Smith and Nina Agrawal",
+      "title": "What Jane Goodall Taught Us About Living a Long Life",
+      "description": "The scientist, who died at 91 on Wednesday, was a model for healthy aging.",
+      "url": "https://www.nytimes.com/2025/10/02/well/jane-goodall-aging-long-life.html",
+      "source": "The New York Times",
+      "image": "https://static01.nyt.com/images/2025/10/01/multimedia/WELL-GOODALL-AGING1-jhzb/WELL-GOODALL-AGING1-jhzb-mediumSquareAt3X.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-10-02T14:16:46+00:00"
     },
     {
-      "source": {
-        "id": null,
-        "name": "Delish.com"
-      },
-      "author": "Taylor Ann Spencer",
-      "title": "I Tried 13 Popular Protein Bars & These Are The Only Ones Worth Buying - Delish",
-      "description": "Food editor Taylor Ann Spencer tastes over a dozen protein bars to find the best ones.",
-      "url": "https://www.delish.com/food-news/a68808907/best-protein-bars-taste-test/",
-      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/protein-bar-index-1-68dfc30949a9a.jpg?crop=1.00xw:0.669xh;0,0.203xh&resize=1200:*",
-      "publishedAt": "2025-10-03T17:59:59Z",
-      "content": "<ul><li>With new brands of protein bars popping up all the time, it can be hard to know which one to choose, so I tasted 13 different brands to find the best ones. </li><li>Aloha Minis won the best f… [+6373 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "I Love the Upper West Side"
-      },
-      "author": "Mike Mishkin",
-      "title": "UWS Doorman Sentenced for Stealing Nearly Half a Million Dollars from Elderly Residents - iLovetheUpperWestSide.com",
-      "description": "A former doorman on the Upper West Side who admitted to stealing nearly $500,000 from an elderly couple in his building has officially been sentenced.",
-      "url": "https://www.ilovetheupperwestside.com/uws-doorman-sentenced-for-stealing-nearly-half-a-million-dollars-from-elderly-residents/",
-      "urlToImage": "https://www.ilovetheupperwestside.com/material/media/media/2024/10/380-Riverside-Drive.jpg",
-      "publishedAt": "2025-10-03T17:21:23Z",
-      "content": "Google Maps\r\nFree Upper West Side News, Delivered To Your Inbox\r\nA former doorman on the Upper West Side who admitted to stealing nearly $500,000 from an elderly couple in his building has officially… [+2358 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Neurosciencenews.com"
-      },
-      "author": "Neuroscience News",
-      "title": "Ultrasound Breakthrough Targets Multiple Brain Networks at Once - Neuroscience News",
-      "description": "Researchers have developed a groundbreaking ultrasound device that can stimulate several precise points in the brain at the same time, marking a leap forward in non-invasive neuromodulation.",
-      "url": "https://neurosciencenews.com/ultrasound-brain-system-neurotech-29763/",
-      "urlToImage": "https://neurosciencenews.com/files/2025/10/ultrasound-brain-networks-neuroscience.jpg",
-      "publishedAt": "2025-10-03T17:19:57Z",
-      "content": "Summary: Researchers have developed a groundbreaking ultrasound device that can stimulate several precise points in the brain at the same time, marking a leap forward in non-invasive neuromodulation.… [+8661 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
       "author": null,
-      "title": "Creative hobbies could slow brain ageing at the molecular level - Nature",
-      "description": "To keep the mind young, dance the tango.",
-      "url": "https://www.nature.com/articles/d41586-025-03197-z",
-      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-025-03197-z/d41586-025-03197-z_51529316.jpg",
-      "publishedAt": "2025-10-03T17:03:27Z",
-      "content": "The tangos complexity might make it particularly good for keeping the brain young.Credit: Tempura/Getty\r\nWhether its dancing the tango or playing the guitar, engaging in a creative pastime can slow b… [+2710 chars]"
+      "title": "Pharmacies can issue UTI drugs without GP visit",
+      "description": "From October, most pharmacies in Wales can treat women under 64 who have urinary tract infections.",
+      "url": "https://www.bbc.com/news/articles/c1mx2dllklko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - Health",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b34/live/f0882690-9f75-11f0-9ccd-4dc2d8fa5ad2.png",
+      "category": "health",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2025-10-02T11:52:37+00:00"
     },
     {
-      "source": {
-        "id": null,
-        "name": "Eatthis.com"
-      },
-      "author": "Alexa Mellardo",
-      "title": "This 10-Minute Morning Standing Routine Builds More Strength After 50 - Eat This Not That",
-      "description": "A quick, joint-friendly standing routine that builds total-body strength after 50—just 10 minutes with a band.",
-      "url": "https://www.eatthis.com/10-min-morning-standing-routine-strength-after-50/",
-      "urlToImage": "https://www.eatthis.com/wp-content/uploads/sites/4/2025/09/shutterstock_1458096026.jpg?quality=82&strip=all",
-      "publishedAt": "2025-10-03T16:46:57Z",
-      "content": "Starting the morning off with a simple 10-minute workout is a stellar way to promote healthy habits throughout the rest of the day. Better yetyou can fast-track total-body strength gains by performin… [+2687 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Dana Milbank",
-      "title": "Column | I asked a machine how to be more human. It was dehumanizing. - The Washington Post",
-      "description": "In an age in which machines have intellectual capacities superior to our own, we no longer have the market cornered on thinking. Feeling, though, is a different story.",
-      "url": "https://www.washingtonpost.com/climate-environment/interactive/2025/ai-replace-humans-chatgpt/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YTWEPCXRQVDKPFEMXC3WIJRTYY.jpg&w=1200",
-      "publishedAt": "2025-10-03T16:02:15Z",
-      "content": "To prepare for my new column project on regaining our humanity, I asked readers to share advice and more than 500 of you responded with intensely personal accounts about the deaths of loved ones, you… [+11671 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Study Finds"
-      },
-      "author": "StudyFinds Analysis",
-      "title": "Are You ‘Overspending’ Your Heartbeats? New Metric Could Transform Physical Fitness - Study Finds",
-      "description": "A new study explores “heartbeat consumption,” a fitness metric that counts daily heartbeats. Could smartwatches soon track your heartbeat budget?",
-      "url": "https://studyfinds.org/are-you-overspending-heartbeat-consumption/",
-      "urlToImage": "https://studyfinds.org/wp-content/uploads/2025/08/Heart-test-on-treadmill-scaled.jpg",
-      "publishedAt": "2025-10-03T15:43:03Z",
-      "content": "An athlete's heart is monitored while he runs on a treadmill. (Photo by Gorodenkoff on Shutterstock)\r\n<ul><li>Researchers tested a new metric: counting daily heartbeats like calories.</li><li>Athlete… [+10011 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Uniladtech.com"
-      },
-      "author": "Tom Chapman",
-      "title": "41-year-old man with early-onset Alzheimer's explains first symptoms he noticed - UNILAD Tech",
-      "description": "42-year-old Fraser from Australia has opened up about his early-onset Alzheimer's disagnosis and explained the first symptoms he started to experience.",
-      "url": "https://www.uniladtech.com/science/news/41yearold-earlyonset-alzheimers-first-symptoms-215014-20251003",
-      "urlToImage": "https://images.ladbible.com/ogimage/v3/assets/bltb5d92757ac1ee045/bltd2ac36e54c33ecc8/68dfe090fba9268ced0d2988/Fraser_Alzheimer_s_diagnosis.jpg?crop=1200,675,x0,y0",
-      "publishedAt": "2025-10-03T15:21:20Z",
-      "content": "People are living longer than ever in 2025, and while the likes of artificial intelligence are helping catapult the medical industry forward, we're still a long way from curing the many harrowing dis… [+3172 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Medscape"
-      },
-      "author": "Megan  Brooks",
-      "title": "Autism Is Not One Disorder, New Data Show - Medscape",
-      "description": "Autism diagnosed early differs genetically and developmentally from autism identified later, challenging the theory that it is a single, uniform condition.",
-      "url": "https://www.medscape.com/viewarticle/autism-not-one-disorder-new-data-show-2025a1000qmm",
-      "urlToImage": "https://img.medscapestatic.com/vim/live/professional_assets/medscape/thumbnail_library/gty_230328_genetic_brain_disorders_800x450.jpg",
-      "publishedAt": "2025-10-03T14:49:50Z",
-      "content": "Autism diagnosed in early childhood differs genetically and developmentally from autism identified later in an individual’s development, challenging the notion that it is a single, uniform disorder, … [+5494 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Medical Xpress"
-      },
-      "author": "Justin Jackson",
-      "title": "Most aspirin use in middle-aged adults may be unnecessary under new assessment - Medical Xpress",
-      "description": "Rochester General Hospital, the University of Texas Southwestern Medical Center, and Aga Khan University report that applying newer cardiovascular risk equations could sharply reduce the number of middle-aged adults considered candidates for aspirin to preven…",
-      "url": "https://medicalxpress.com/news/2025-10-aspirin-middle-aged-adults-unnecessary.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/taking-medicine.jpg",
-      "publishedAt": "2025-10-03T14:30:01Z",
-      "content": "Rochester General Hospital, the University of Texas Southwestern Medical Center, and Aga Khan University report that applying newer cardiovascular risk equations could sharply reduce the number of mi… [+3730 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PsyPost"
-      },
-      "author": "Eric W. Dolan",
-      "title": "Your perception of loudness bends to what you know, according to fascinating new psychology research - PsyPost",
-      "description": "A new study finds that people hear familiar words as louder than nonsense words, even when both are equally loud. The results suggest that our brains rely on language knowledge to shape how we perceive even simple qualities like sound intensity.",
-      "url": "https://www.psypost.org/your-perception-of-loudness-bends-to-what-you-know-according-to-fascinating-new-psychology-research/",
-      "urlToImage": "https://www.psypost.org/wp-content/uploads/2025/10/sound.jpg",
-      "publishedAt": "2025-10-03T14:14:33Z",
-      "content": "A new study published in the Journal of Cognition provides evidence that what we know influences what we hear. Researchers found that when people listened to pairs of words and nonsense words spoken … [+8846 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "nj.com"
-      },
-      "author": "Annie Lane",
-      "title": "Best of Dear Annie: I can’t pick up my 1-year-old great-grandchild because her parents feed her so much - NJ.com",
-      "description": "I don’t want to start any problems, but obesity starts in childhood. What can I do without causing problems?",
-      "url": "https://www.nj.com/advice/2025/10/best-of-dear-annie-i-cant-pick-up-my-1-year-old-great-grandchild-because-her-parents-feed-her-so-much.html",
-      "urlToImage": "https://www.nj.com/resizer/v2/6PWAWGTKTFHOZF4VJALHFHE3VU.png?auth=90912d1a3bfc5998cf6cfab1ce6f47e617eb137d87e48fae0600341aca4fda0b&width=1280&smart=true&quality=90",
-      "publishedAt": "2025-10-03T14:00:00Z",
-      "content": "DEAR ANNIE: My grandson married a lovely girl who we are crazy about. She has fought a weight problem all her life. She is still heavy, though not obese. They have a 1-year-old baby and are over the … [+1585 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
       "author": null,
-      "title": "Scientists just cracked the mystery of why cancer immunotherapy fails - ScienceDaily",
-      "description": "Ohio State researchers have discovered that exhausted T cells collapse under the weight of misfolded proteins, activating a destructive stress response called TexPSR. Unlike normal stress systems, TexPSR accelerates protein production, flooding the cells with…",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251003033909.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/cancer-cell-self-destructing.webp",
-      "publishedAt": "2025-10-03T13:14:33Z",
-      "content": "In what experts are calling a paradigm-shifting landmark study, scientists from The Ohio State University Comprehensive Cancer Center - Arthur G. James Cancer Hospital and Richard J. Solove Research … [+3213 chars]"
+      "title": "First local endometriosis support centre to open",
+      "description": "The charity-run centre in Hull will help women with the condition that can cause extreme pain.",
+      "url": "https://www.bbc.com/news/articles/cn7680y831mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - Health",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db44/live/6d8bdc70-9ebf-11f0-928c-71dbb8619e94.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2025-10-02T04:57:35+00:00"
     },
     {
-      "source": {
-        "id": null,
-        "name": "Albany Times Union"
-      },
-      "author": "Roger Hannigan Gilson",
-      "title": "Rabid deer found in Columbia County - Times Union",
-      "description": "The deer was found Sept. 26 and sent to the state Department of Health's Wadsworth Lab, where it tested positive for rabies, a rare disease for deer.",
-      "url": "https://www.timesunion.com/hudsonvalley/outdoors/article/rabid-deer-columbia-county-21081207.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/54/56/01/28500057/5/rawImage.jpg",
-      "publishedAt": "2025-10-03T13:12:43Z",
-      "content": "A test performed at the David Axelrod Institute Wadsworth Center in Albany confirmed rabies in a deer that was found acting atypically in southeastern Columbia County.\r\nLori Van Buren/Times Union\r\nHU… [+3585 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
       "author": null,
-      "title": "First human transplant of kidney modified to have ‘universal’ blood type - Nature",
-      "description": "Recipient diagnosed with brain death received a type-O organ, which is compatible with all blood types.",
-      "url": "https://www.nature.com/articles/d41586-025-03248-5",
-      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-025-03248-5/d41586-025-03248-5_51532428.jpg",
-      "publishedAt": "2025-10-03T13:08:09Z",
-      "content": "Researchers converted a kidney with type-A blood to type-O.Credit: Sherry Yates Young/Science Photo Library\r\nScientists have converted the blood type of a donor kidney and transplanted the organ into… [+1716 chars]"
+      "title": "Breast Cancer Awareness Month 2025 - World Health Organization (WHO)",
+      "description": "Breast Cancer Awareness Month 2025&nbsp;&nbsp;World Health Organization (WHO)Is it time for your yearly mammogram?&nbsp;&nbsp;Roswell Park Comprehensive Cancer CenterHealth departments urge screenings for Breast Cancer Awareness Month&nbsp;&nbsp;FOX13 MemphisEntre Nous - The story of the pink ribbon for Breast Cancer Awareness Month&nbsp;&nbsp;France 24October is Breast Cancer Awareness Month&nbsp;&nbsp;Ohio Department of Health (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMm8yYm9oWFEzaDdpWEZFZmdBV25oeUpSNDBfeUN2QWo0OUhVWVhzSjMtbzZZSUo1LXFfWjZldVRCRXI5SkY2OHRyaTRSa1prc2tFbzYyOVFIUnFBVlhvaXdZclBIeFdsOWl6NXBSWW0xLWw5Q1BVZU80UFBULXJKcW82dVFQU0tGSVdHX210ck9qbFRYNkhiRmdYQXVJa1Ftd0JfRUdkMHlRZw?oc=5",
+      "source": "Google News Health US",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-10-01T20:05:47+00:00"
     },
     {
-      "source": {
-        "id": null,
-        "name": "Lymedisease.org"
-      },
-      "author": "dleland",
-      "title": "SOT therapy for Lyme is experimental, expensive—and full of potential. - LymeDisease.org",
-      "description": "Part One of a two-part series. By Maria Marian, ND, MSE For many people facing chronic infections such as Lyme disease, Epstein–Barr virus (EBV), herpes",
-      "url": "https://www.lymedisease.org/sot-lyme-treatment/",
-      "urlToImage": "https://www.lymedisease.org/wp-content/uploads/2025/10/maria-marian-nd.jpg",
-      "publishedAt": "2025-10-03T13:00:15Z",
-      "content": "Part One of a two-part series.\r\nBy Maria Marian, ND, MSE\r\nFor many people facing chronic infections such as Lyme disease, EpsteinBarr virus (EBV), herpes simplex virus (HSV-1 and HSV-2), or cytomegal… [+6184 chars]"
+      "author": "Talya Minsberg",
+      "title": "Running Boom Makes Race Bibs a ‘Precious New York City Resource’",
+      "description": "New York Road Runners races that used to take months to sell out are now filling up in days. Some races have been in such high demand that the sign-up queues crashed the website.",
+      "url": "https://www.nytimes.com/2025/10/01/nyregion/nyc-races-running-boom.html",
+      "source": "The New York Times",
+      "image": "https://static01.nyt.com/images/2025/10/05/nyregion/05xp-nyrr-jtbp/00xp-nyrr-jtbp-mediumSquareAt3X.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-10-01T16:47:25+00:00"
     },
     {
-      "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
       "author": null,
-      "title": "A genetic map of human metabolism across the allele frequency spectrum - Nature",
-      "description": "Genome-wide association analyses of 249 circulating small molecules and lipoprotein characteristics across the allele frequency spectrum in UK Biobank advance understanding of genes and pathways regulating human metabolism.",
-      "url": "https://www.nature.com/articles/s41588-025-02355-3",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41588-025-02355-3/MediaObjects/41588_2025_2355_Fig1_HTML.png",
-      "publishedAt": "2025-10-03T12:48:30Z",
-      "content": "Study design\r\nThe UKB is a prospective cohort study from the UK that contains more than 500,000 volunteers between 40 and 69years of age at inclusion. The study design, sample characteristics and gen… [+24106 chars]"
+      "title": "AI-Generated Genomes Used To Produce Functional, Bacteria-Killing Viruses In World First - IFLScience",
+      "description": "AI-Generated Genomes Used To Produce Functional, Bacteria-Killing Viruses In World First&nbsp;&nbsp;IFLScienceThe magic that is science! AI-designed virus to kill bacteria&nbsp;&nbsp;Kerala KaumudiAI-crafted viruses that eat bacteria: Scientists say the medical breakthrough has already begun&nbsp;&nbsp;The Economic TimesAI Has Designed Living Genomes—And They Worked in the Lab&nbsp;&nbsp;DecryptResearchers at Stanford University design ‘Evo’- A fully functional AI viral genome&nbsp;&nbsp;eHealth Magazine",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWGY3YWVUTUQ2QmI0VWZIUUpQMkhXNTFlM01GUy1kc2lMbWJjR3lkUWdXZEZKeVpPMjdRLWFpRFVaSS1sT293OFRPcU5qWHZVbmxiRFIxR20wSF9zeHdOSVRKRjc4TG5rckxyeGlPWlFvWkp6NzhmdjhZdHhnWHJmU0JrRHhzZThEdVR5VGVTZ0pxa1V2T1pJcVprc3JteDd2Zl9tZ0FfeGVaYTJ5VjZNRDAtdHY1R1FVcFdrTw?oc=5",
+      "source": "Google News Health IN",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "in",
+      "published_at": "2025-10-01T14:45:27+00:00"
     },
     {
-      "source": {
-        "id": null,
-        "name": "Medical Xpress"
-      },
-      "author": "Ingrid Fadelli",
-      "title": "Diabetes drugs show promise for treatment of alcohol use disorder - Medical Xpress",
-      "description": "The excessive and uncontrolled consumption of alcohol, which can culminate in the development of alcohol use disorder or alcoholism, is widespread in many countries worldwide. Individuals diagnosed with alcohol use disorder are often also experiencing other m…",
-      "url": "https://medicalxpress.com/news/2025-10-diabetes-drugs-treatment-alcohol-disorder.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/diabetes-drugs-found-t.jpg",
-      "publishedAt": "2025-10-03T11:30:01Z",
-      "content": "The excessive and uncontrolled consumption of alcohol, which can culminate in the development of alcohol use disorder or alcoholism, is widespread in many countries worldwide. Individuals diagnosed w… [+6457 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PsyPost"
-      },
-      "author": "Eric W. Dolan",
-      "title": "\"Only the tip of the iceberg:\" Misophonia may reflect deeper psychological realities - PsyPost",
-      "description": "A new study provides evidence that misophonia is linked to difficulties in adapting to emotional demands and switching thoughts. The findings point to cognitive and emotional rigidity that may underlie sound sensitivity symptoms.",
-      "url": "https://www.psypost.org/only-the-tip-of-the-iceberg-misophonia-may-reflect-deeper-psychological-realities/",
-      "urlToImage": "https://www.psypost.org/wp-content/uploads/2025/10/misophonia.jpg",
-      "publishedAt": "2025-10-03T10:08:38Z",
-      "content": "A new study published in the British Journal of Psychology has suggests that misophonia reflects broader psychological and cognitive traits rather than being limited to annoyance at specific noises. … [+8976 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
       "author": null,
-      "title": "AI has designed thousands of potential antibiotics. Will any work? - Nature",
-      "description": "Machine learning can speed up the discovery of potential antibiotics but challenges remain.",
-      "url": "https://www.nature.com/articles/d41586-025-03201-6",
-      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-025-03201-6/d41586-025-03201-6_51515002.jpg",
-      "publishedAt": "2025-10-03T09:51:18Z",
-      "content": "Credit: Chris Ratcliffe/Bloomberg via Getty\r\nResearchers are turning to artificial intelligence (AI) to help design the next generation of antibiotics to combat rising antimicrobial resistance. In mi… [+2775 chars]"
+      "title": "Every GP practice now has to offer online booking",
+      "description": "Move comes despite opposition from union, with ministers saying NHS needs to embrace digital tech.",
+      "url": "https://www.bbc.com/news/articles/cjed4qvzjeyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - Health",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db7c/live/6ad86760-9e1e-11f0-b3fe-41cd43eebd60.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2025-10-01T13:13:18+00:00"
     },
     {
-      "source": {
-        "id": null,
-        "name": "HuffPost"
-      },
-      "author": "Brittany Wong",
-      "title": "‘Menorexia’ Is The Midlife Crisis We Don’t Talk About Enough - HuffPost",
-      "description": "Midlife adults are prone to this disorder, especially women.",
-      "url": "https://www.huffpost.com/entry/menorexia-midlife-eating-disorder_l_68dd7d6ee4b0c450ba64c343",
-      "urlToImage": "https://img.huffingtonpost.com/asset/68dd9bbc140000b5a05c6b06.jpeg?cache=ccacHsgO8y&ops=500_281%2Cscalefit_1200_630",
-      "publishedAt": "2025-10-03T09:45:17Z",
-      "content": "Its estimated that 28.8 million people in the United States will be diagnosed with an eating disorder at some point in their lifetime, and women remain at the highest risk.\r\nWhile we tend to associat… [+9070 chars]"
+      "author": "Nina Agrawal",
+      "title": "The Race to Figure Out Why More Young People Are Getting Cancer",
+      "description": "In the last decade, more than a dozen types of cancer have risen among people under 50. Scientists don’t have all of the answers, but research is starting to offer clues.",
+      "url": "https://www.nytimes.com/2025/10/01/well/cancer-young-people.html",
+      "source": "The New York Times",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-10-01T13:11:57+00:00"
     },
     {
-      "source": {
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "author": "ABC News",
-      "title": "Breast cancer by the numbers: How survival rates have improved over the past 40 years - ABC News - Breaking News, Latest News and Videos",
-      "description": "",
-      "url": "https://abcnews.go.com/Health/Recipes/story?id=40",
-      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
-      "publishedAt": "2025-10-03T09:12:25Z",
-      "content": "&amp;#151; -- U.S. counterterrorism officials are looking at an emergency proposal on the legal steps needed to postpone the presidential election in case of such an attack, Newsweek reported on Sund… [+1987 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
       "author": null,
-      "title": "Vaccine breakthrough for deadly elephant virus - BBC",
-      "description": "A vaccine against a deadly disease that affects young elephants is shown to be effective in a world-first trial.",
-      "url": "https://www.bbc.com/news/articles/cjd1j02y88do",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dfef/live/3a627f30-9e19-11f0-928c-71dbb8619e94.jpg",
-      "publishedAt": "2025-10-03T09:04:24Z",
-      "content": "Victoria GillScience correspondent, BBC News\r\nChester Zoo alone has lost seven baby elephants to disease caused by the virus\r\nResearchers have made a breakthrough in the development of new vaccine to… [+3830 chars]"
+      "title": "They were desperate for a baby. They turned to cutting-edge robots. - The Washington Post",
+      "description": "They were desperate for a baby. They turned to cutting-edge robots.&nbsp;&nbsp;The Washington PostHow artificial wombs will shape the future of assisted reproduction&nbsp;&nbsp;360info.orgThis Robot That Replaces Human Pregnancy And Doctors Hide The Terrifying Medical Revolution&nbsp;&nbsp;Sustainability TimesAI for Procreation: The Rise of the \"Gestation Robot\"&nbsp;&nbsp;Telecom Review AsiaThe pregnancy robot is coming! Is it fake news or a harbinger of things to come?&nbsp;&nbsp;Red Hot Cyber",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ0w1Tk5kU2RlX0lrMEYzZHE2R2hFZEx1cElqRVp3U2NXN214SUMxbGs2dlNFN1oxd2JpTXRVbHlucWxuVlRJNHJqclhxMHVZTlkxX1ZjR0JhbE1WMWIwV2d5c2w4MXBNa1FwdWVPRFdVb0NQRjZJdjBzNEwyOVRJQnBDU2VZU1h2VzlIMA?oc=5",
+      "source": "Google News Health IN",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "in",
+      "published_at": "2025-10-01T10:32:23+00:00"
     },
     {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Erika Edwards",
-      "title": "Measles cases quickly rising in Minnesota. Here's where outbreaks are spreading in the U.S. - NBC News",
-      "description": "Measles outbreaks continue to simmer and spread across the country, with cases now popping up quickly in Minnesota",
-      "url": "https://www.nbcnews.com/health/health-news/measles-minnesota-double-us-outbreaks-vaccine-continue-rcna235144",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-02/250228-Meseals-aa-3415-3c94d9.jpg",
-      "publishedAt": "2025-10-03T09:00:00Z",
-      "content": "Measles outbreaks continue to simmer and spread across the country, with cases now popping up quickly in Minnesota.\r\nOn Wednesday, the Minnesota Department of Health alerted residents that it had con… [+2508 chars]"
+      "author": null,
+      "title": "This scientist studies ultra-processed foods. Here’s what he eats in a day. - The Washington Post",
+      "description": "This scientist studies ultra-processed foods. Here’s what he eats in a day.&nbsp;&nbsp;The Washington PostStudy finds what happens to your body when you eat too many ultra-processed foods&nbsp;&nbsp;ET HealthWorldThe big UPF myth: Why consumers say one thing and eat the another&nbsp;&nbsp;FoodNavigator.comMichael Roizen, M.D.: Improve sperm quality; incentives to stick to an exercise regimen&nbsp;&nbsp;The Crescent-NewsHow to avoid ultraprocessed foods for better health, Atlanta experts say&nbsp;&nbsp;AJC.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaXR5aTdFYUVHZmk1VGV2MURqdXZIcHVobER3cFUxcnNmWlBlSHR4TEJaWjhjc3F3cDdZa3hHbUlSa3M5cXRmNmlaaThNazlfckUxcGFoeWE4RkZqN3hTbzc1SFExZkd1cUFNWE1kbEt5dG94SmxuTkVUb1B2bnJhUldjXy1zVktMcW9mSQ?oc=5",
+      "source": "Google News Health IN",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "in",
+      "published_at": "2025-10-01T09:15:46+00:00"
     },
     {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "Akanksha Agnihotri",
-      "title": "Orthopaedic surgeon shares surprising benefits of ‘backward walking’ for knee health on Food Pharmer podcast | Health - Hindustan Times",
-      "description": "Orthopaedic surgeon Dr Mayank Daral reveals how backward walking can strengthen hamstrings, glutes, and calves while supporting knee health and easing pain. | Health",
-      "url": "https://www.hindustantimes.com/lifestyle/health/orthopaedic-surgeon-shares-surprising-benefits-of-backward-walking-for-knee-health-on-food-pharma-podcast-101759465082024.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/10/03/1600x900/logo/Gemini_Generated_Image_kdcm64kdcm64kdcm_1759465930603_1759465937702.png",
-      "publishedAt": "2025-10-03T05:03:12Z",
-      "content": "Walking is one of the simplest forms of exercise, yet we often stick to the usual forward steps without exploring other ways to move. Dr Mayank Daral, orthopaedic surgeon specialised in knee and spor… [+2325 chars]"
+      "author": null,
+      "title": "I went undercover as a cleaner at a failing care home. Here's what I witnessed",
+      "description": "Catriona MacPhee worked in a Highland care home for seven weeks as part of BBC Disclosure investigation.",
+      "url": "https://www.bbc.com/news/articles/c4g78yj2v2go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - Health",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac4b/live/45906410-9e48-11f0-88cf-e92b66f5aaae.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2025-10-01T05:09:10+00:00"
     },
     {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "David Nield",
-      "title": "Century-Old Viral Therapy Could Help Us Out of an Impending Superbug Crisis - ScienceAlert",
-      "description": "Phage therapy, where viruses are used to kill bacteria, became common in the 1920s, before antibiotics arrived to offer easier and more effective ways of treating infections.",
-      "url": "https://www.sciencealert.com/century-old-viral-therapy-could-help-us-out-of-an-impending-superbug-crisis",
-      "urlToImage": "https://www.sciencealert.com/images/2025/10/phages.jpg",
-      "publishedAt": "2025-10-03T03:34:51Z",
-      "content": "Phage therapy, where viruses are used to kill bacteria, became common in the 1920s, before antibiotics arrived to offer easier and more effective ways of treating infections. However, with antibiotic… [+3358 chars]"
+      "author": null,
+      "title": "AI tool detects tiny brain lesions to improve epilepsy treatment in children - News-Medical",
+      "description": "AI tool detects tiny brain lesions to improve epilepsy treatment in children&nbsp;&nbsp;News-MedicalView Full coverage on Google News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT21SUFpVOV9Gc05yb1pTR3N4SWotUmlKd2hPdEc0c0RJZmNiYzcwMEhZdzViM1EycVc5cjBBUll6OS01Y0tjY0lPUTJtX3pqTGhQR0REVDdOdWVXX21NZ1BndnI1dUxYYktSSm5SUk9yTnB1WjNzY19rLTQ4U0NUTTlZT2wySUlaeEdVYWo1Rk9TR3dab09MazBBMG05bVRDOC1VQjlBT2Yya1hjTVA4Y2UwWk9GdmJxWWFLNEFTVVpUdw?oc=5",
+      "source": "Google News Health IN",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "in",
+      "published_at": "2025-10-01T03:36:00+00:00"
     },
     {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ETimes.in",
-      "title": "25% of men will have an enlarged prostate by 50: What can be done now to prevent it - Times of India",
-      "description": "With growing age, many experience Benign Prostatic Hyperplasia (BPH) also known as an enlarged prostate. Research indicates that prostate enlargement affects 25% of men during their 50s but this number grows substantially as we age. The enlarged prostate cond…",
-      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/25-of-men-will-have-an-enlarged-prostate-by-50-what-can-be-done-now-to-prevent-it/photostory/124256849.cms",
-      "urlToImage": "https://static.toiimg.com/photo/124256876.cms",
-      "publishedAt": "2025-10-01T23:30:00Z",
-      "content": "A healthy lifestyle, and hearty diet goes a long way in preventing prostate. However, this must be adapted at a young age, since the condition cannot be reversed per se. Physical exercise helps maint… [+676 chars]"
+      "author": null,
+      "title": "Surgeon offered womb removals in 'minutes' without proper examination, women say",
+      "description": "Only \"good fortune\" prevented ex-gynaecologist Daniel Hay from causing more harm to women, a report says.",
+      "url": "https://www.bbc.com/news/articles/ckgqr7nnzw1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - Health",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58c0/live/5fbceb80-9e0f-11f0-92db-77261a15b9d2.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2025-10-01T01:35:27+00:00"
+    },
+    {
+      "author": "Pam Belluck",
+      "title": "Long Covid Risk for Children Doubles After a Second Infection, Study Finds",
+      "description": "The new research provides evidence that Covid reinfections can increase the risk of long-term health consequences.",
+      "url": "https://www.nytimes.com/2025/09/30/health/long-covid-children.html",
+      "source": "The New York Times",
+      "image": "https://static01.nyt.com/images/2021/08/08/us/30LongCovid-Kids-01/30LongCovid-Kids-01-mediumSquareAt3X-v2.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-30T22:33:42+00:00"
+    },
+    {
+      "author": null,
+      "title": "Call for papers - Mental health services for depression and anxiety - BioMed Central",
+      "description": "Call for papers - Mental health services for depression and anxiety&nbsp;&nbsp;BioMed Central",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZM25xcEdYV1RYTVl0T0hDOHdiM1F6UWFhTUpMS21tbzFHdHI0a0lPUzlsU0l2dDBxQ2pKRUI3c1BxOXBvLThHM3J4VFNjczFxR3Vfd2NqT1FXNFBFMWc?oc=5",
+      "source": "Google News Health IN",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "in",
+      "published_at": "2025-09-30T18:40:51+00:00"
+    },
+    {
+      "author": null,
+      "title": "Experiencing peace among the flowers",
+      "description": "Audrey forgets her indoor troubles when she's outside in her garden.",
+      "url": "https://www.bbc.com/videos/c1l890z06jno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - Health",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f0f/live/e4f73570-9e1a-11f0-b741-177e3e2c2fc7.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2025-09-30T16:41:16+00:00"
+    },
+    {
+      "author": null,
+      "title": "Gardening to feel like yourself again",
+      "description": "Ramona finds relief from needing to mask her autism when she's in her garden.",
+      "url": "https://www.bbc.com/videos/c4gvxnkne7xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - Health",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/233c/live/f75398a0-9e18-11f0-92db-77261a15b9d2.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2025-09-30T16:24:40+00:00"
+    },
+    {
+      "author": null,
+      "title": "How some nasal sprays may help protect you from covid - The Washington Post",
+      "description": "How some nasal sprays may help protect you from covid&nbsp;&nbsp;The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMUtvMEV0NURESnpCaVFPcWMzLVpoSkJheHJrTzU3Vk9WdFZQc2lDMjJXb2tPZmRoTGEwWkRvQVpka3FIODBsUVNzTW9zbDRIVUlNMllOeUZJT256eVAtMDRrWVBaLVBJZjBMcFdhVTctWDItdmZPOXozSUlGX0wyQVdTVE1nd2F4?oc=5",
+      "source": "Google News Health US",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-30T13:01:12+00:00"
+    },
+    {
+      "author": "Simar Bajaj",
+      "title": "Trump’s Bill Followed Georgia’s Lead on Medicaid",
+      "description": "A state-level preview of the Big Beautiful Bill’s Medicaid reforms didn’t improve employment or result in gains in insurance coverage.",
+      "url": "https://www.nytimes.com/2025/09/30/well/trump-bill-medicaid-georgia.html",
+      "source": "The New York Times",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-30T09:03:49+00:00"
+    },
+    {
+      "author": "Melinda Wenner Moyer",
+      "title": "Does Smartphone Use Contribute to Hemorrhoids?",
+      "description": "You’re going to want to sit down for this.",
+      "url": "https://www.nytimes.com/2025/09/30/well/phone-use-toilet-hemorrhoids-constipation.html",
+      "source": "The New York Times",
+      "image": "https://static01.nyt.com/images/2025/09/30/multimedia/30WELL-ASK-BATHROOM-SCROLLING2-wbjv/30WELL-ASK-BATHROOM-SCROLLING2-wbjv-mediumSquareAt3X.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-30T09:02:19+00:00"
+    },
+    {
+      "author": null,
+      "title": "'Severe period pain – it's not normal'",
+      "description": "Reah Steer was prescribed the contraceptive pill, which only disguised her endometriosis.",
+      "url": "https://www.bbc.com/news/articles/ckg6edk0yleo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - Health",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bfa/live/ec3e02b0-9d65-11f0-929f-69f404127a61.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2025-09-30T05:39:16+00:00"
+    },
+    {
+      "author": null,
+      "title": "British veterans with hearing loss start legal battle over 'faulty' earplugs",
+      "description": "Lawyers say the earplugs were used in operations, including in Afghanistan, from 2003 onwards.",
+      "url": "https://www.bbc.com/news/articles/ce84e4egp38o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - Health",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acb6/live/1d5c3410-9d03-11f0-928c-71dbb8619e94.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2025-09-30T03:00:46+00:00"
+    },
+    {
+      "author": "Theodore Tae and Antoine Castagné",
+      "title": "At 102, This Yogi Keeps It Moving. She Teaches Others to Do the Same.",
+      "description": "Charlotte Chopin’s day consists of a simple breakfast, spending time outdoors and teaching yoga.",
+      "url": "https://www.nytimes.com/video/well/move/100000010423399/yoga-teacher-charlotte-chopin.html",
+      "source": "The New York Times",
+      "image": "https://static01.nyt.com/images/2025/09/26/well/french-yogi-video-cover-image/french-yogi-video-cover-image-mediumSquareAt3X.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-29T17:32:17+00:00"
+    },
+    {
+      "author": null,
+      "title": "How to improve your health at any age, even after setbacks - The Washington Post",
+      "description": "How to improve your health at any age, even after setbacks&nbsp;&nbsp;The Washington PostFlipping the Script on Aging: Study Reveals Declining Well-Being in Older Age Is Not Inevitable&nbsp;&nbsp;SciTechDailyExercise, healthy diet can help older adults regain 'optimal well-being' within 3 years&nbsp;&nbsp;Medical News TodayOlder adults can bounce back to thriving health, study finds&nbsp;&nbsp;Medical XpressOlder adults can regain optimal well-being&nbsp;&nbsp;EurekAlert!",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTU5DclpPQlNQYnhOaldYM1pkUmhvemlvamNXY18yQlJHZjU4Mm5LenlSTVRUR1ZtOUpfTDRCUERkdmh0QkQ4eTMxZkc0MmIxUm9IVFhsVEY5TjZGM204S0VZQVJZeVhoZVVybndYX2UwenJIc3dRQ1ZFQlVPdFZWUTVtNHk5OXJhWFpGTGc4aw?oc=5",
+      "source": "Google News Health US",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-29T16:02:26+00:00"
+    },
+    {
+      "author": "Simar Bajaj",
+      "title": "A.I. Chatbots Are Built to Please. Here’s How You Can Use Them Safely.",
+      "description": "Chatbots want to be your friend, when what you really need is a neutral perspective.",
+      "url": "https://www.nytimes.com/2025/09/26/well/is-ai-validation-healthy.html",
+      "source": "The New York Times",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-29T15:30:40+00:00"
+    },
+    {
+      "author": null,
+      "title": "How to have a social life - even when it feels hard",
+      "description": "Advice on staying connected with friends when life feels like a never-ending to-do list.",
+      "url": "https://www.bbc.com/news/videos/c80gmkyj445o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - Health",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/012e/live/0ae99d10-9d42-11f0-b741-177e3e2c2fc7.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2025-09-29T15:14:08+00:00"
+    },
+    {
+      "author": "Danielle Friedman",
+      "title": "A 102-Year-Old Yoga Teacher’s Simple Approach to Aging Well",
+      "description": "For decades, Charlotte Chopin has been bending and stretching in Léré, a village in France. Here’s how she keeps moving.",
+      "url": "https://www.nytimes.com/2025/09/29/well/move/102-year-old-yogi-charlotte-chopin.html",
+      "source": "The New York Times",
+      "image": "https://static01.nyt.com/images/2025/09/29/well/french-yogi-topper-cover-img/french-yogi-topper-cover-img-mediumSquareAt3X.png",
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-29T15:02:28+00:00"
+    },
+    {
+      "author": null,
+      "title": "Doctors' union warning over online booking safety risk",
+      "description": "GPs are concerned they will be at the end of an \"online triage tsunami\" when the new system launches.",
+      "url": "https://www.bbc.com/news/articles/cqje8dljz7eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - Health",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff07/live/5a5e1710-9d22-11f0-928c-71dbb8619e94.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2025-09-29T11:35:28+00:00"
+    },
+    {
+      "author": null,
+      "title": "Rift Valley Fever Outbreak in Senegal’s Saint-Louis Region Claims Seven Lives - Newsonair",
+      "description": "Rift Valley Fever Outbreak in Senegal’s Saint-Louis Region Claims Seven Lives&nbsp;&nbsp;Newsonair",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQREdyTmJ3Tzd1NVJkWVk1RkFVV21YT2ljWDF5WGF1RkppZ18xd2hobFlGcHZoOTk3TC1pZHhRaEZTRXY2R3pfcWhKV21pT2pmZlZZSmFnTlpqRzhPeUtRMG83d3NCWUZackhHbDdaNW4ySFhLV0tZY1JPSFpDTUpOdWE5N3hPOHpXZ25uNGh0WE92ckVCMEdCbUhHY2NlMWd3RUFHajA3ZHFSdw?oc=5",
+      "source": "Google News Health IN",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "in",
+      "published_at": "2025-09-29T07:05:32+00:00"
+    },
+    {
+      "author": null,
+      "title": "The Best Spice to Reduce Your Risk of Cancer, According to Experts - AOL.com",
+      "description": "The Best Spice to Reduce Your Risk of Cancer, According to Experts&nbsp;&nbsp;AOL.comView Full Coverage on Google News",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BS3M1bUkyLXl6MkdzVC1OaW9TYnhyci1NbTNGWXhFTUJDUVNReVNoRFktNlEzakg0YnlhQlhjUllkajNZQ01vWkxxZTU1OTIyRUZTU3dvaXlncV94b2E4MkNxSHdBUWtJOW1lLTRiMHNfZw?oc=5",
+      "source": "Google News Health US",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-28T20:48:24+00:00"
+    },
+    {
+      "author": null,
+      "title": "Death Notice Mary Fivey - Funeral Times",
+      "description": "Death Notice Mary Fivey&nbsp;&nbsp;Funeral Times",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aNFgxNHdVUkFHTVJVSGN2cVF6TUdERjlKbXl5T2x5ckMxYzg5Szc2MHN1MDhYSDNRRGtLdzBUcHNuMFB5RElvTkh1QlBFLVRkZlc3SmRaZU9QQmM?oc=5",
+      "source": "Google News Health GB",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2025-09-28T18:41:14+00:00"
+    },
+    {
+      "author": null,
+      "title": "Death Notice Pauline HOLMES - Funeral Times",
+      "description": "Death Notice Pauline HOLMES&nbsp;&nbsp;Funeral Times",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BQXhxN25RNzdRRmhrTDB1VWRqa3pZbHZSZV9rOU80UUNSNjNLeU9hR1RmZlZFaXNmaWhhRW94S3Q1UmZjNS1BSUE0VEJCYWVXeGJVajduZkU3UXVSRjFPZQ?oc=5",
+      "source": "Google News Health GB",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2025-09-28T16:54:20+00:00"
+    },
+    {
+      "author": null,
+      "title": "Here’s what I learned about parenting with major depression - The Washington Post",
+      "description": "Here’s what I learned about parenting with major depression&nbsp;&nbsp;The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZm84QUMzb3Y5emwxUWgteGFIeDFQQ2dzcWpFWHFLeTZkSC1tT3NXSDJSZ2xaWG9odHEwcWJtQ3RuU19iWGpxTGtQZFc1dDVwSEZ6MVkwcXUzekZvcjJRWjNiUkVyUnc2RnN6bHRwMFFuY184YXdTYlpLM0FBdllBby1QNjlMOFVPeGpn?oc=5",
+      "source": "Google News Health US",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-28T14:31:49+00:00"
+    },
+    {
+      "author": null,
+      "title": "Florence Welch says she had life-saving surgery after ectopic pregnancy",
+      "description": "The singer says she had emergency surgery shortly after performing at a festival in August 2023.",
+      "url": "https://www.bbc.com/news/articles/cm2z1k48rnno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - Health",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/904c/live/c757c300-9c11-11f0-b521-1b161a35f126.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2025-09-28T02:35:16+00:00"
+    },
+    {
+      "author": null,
+      "title": "Delaying your child’s shots? Here’s why professionals say it’s a bad idea. - The Washington Post",
+      "description": "Delaying your child’s shots? Here’s why professionals say it’s a bad idea.&nbsp;&nbsp;The Washington PostMost Americans Favor MMR Vaccine Requirement for Public School&nbsp;&nbsp;Annenberg School for CommunicationNew KFF-Washington Post survey explores parents’ trust in, and confusion about, childhood vaccines as the Trump administration revamps federal policies&nbsp;&nbsp;Genetic Literacy ProjectOne in six US parents rejecting standard vaccine schedule: poll&nbsp;&nbsp;Black Hills PioneerDespite escalating anti-vaccine rhetoric, most Americans support vaccine mandates, surveys find&...",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVDlqN1UwR2dkV0RzbzZyUzRuS0pKcVBkQjB6OEVha1dVcDFVLU5JV2t2ODNpaTV0R2tLZ1FaMzV6WnNuNGYtajU1Q2lRX1JvLWY3RXlUdzlOd00xSUNDWnFmRW9nZEZVWVEzWlAwaWEzN0RFTmxOTmRUT1BIRzJRLTBkN21vSVlTeE5Z?oc=5",
+      "source": "Google News Health US",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-27T13:58:53+00:00"
+    },
+    {
+      "author": null,
+      "title": "'My labour went on for 85 hours - now I know why'",
+      "description": "Lana Boocock said her symptoms were dismissed as irritable bowel syndrome or \"part of being a woman\".",
+      "url": "https://www.bbc.com/news/articles/c9qnxrp84ejo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - Health",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9264/live/d36d3540-948b-11f0-a3f2-ebe3b9e0c5e6.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2025-09-26T21:48:28+00:00"
+    },
+    {
+      "author": "Caroline Hopkins Legaspi",
+      "title": "5 Dairy Myths That Make Experts Sour",
+      "description": "We surveyed leading nutrition experts to reveal the truth about raw milk, lactose intolerance, low-fat dairy and more.",
+      "url": "https://www.nytimes.com/2025/09/26/well/eat/health-myths-dairy.html",
+      "source": "The New York Times",
+      "image": "https://static01.nyt.com/images/2025/08/28/multimedia/WELL-MILK-MYTHS1-gwjp/WELL-MILK-MYTHS1-gwjp-mediumSquareAt3X.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-26T14:45:31+00:00"
+    },
+    {
+      "author": null,
+      "title": "Start your week with these positive words of encouragement",
+      "description": "Asian Network's Trishala Lakhani explores the power of mind over matter.",
+      "url": "https://www.bbc.com/news/videos/c5y4d5pkz9jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - Health",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10e6/live/83d7d1e0-99f2-11f0-92db-77261a15b9d2.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2025-09-26T14:21:44+00:00"
+    },
+    {
+      "author": null,
+      "title": "Dr. Roach: Look for these high-calcium food options to reduce bone loss - The Detroit News",
+      "description": "Dr. Roach: Look for these high-calcium food options to reduce bone loss&nbsp;&nbsp;The Detroit News",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTzcwWmFmSU16YkdHa0F4UVNUbGVjbGdYWHkwdE1uOFpRd01fRndZTTBtUEg1N0JYMkRSem93cHpJTkJOUzN6UXY2NFFia1dtY0M2NmxQWE9RQTY3RllJOEJTRHdJS1NVU2ozc2xLZ3lFYWo2WDEzOVpTN21CQ292MEpmNVYzUnlwTjRXeF9HdXJiNXdjcERfZ0JkNTFPR0ZHMkpYVmQ2aWtzdnNTZ0RpTk4yUXVqMHlqNjRBZlZTQXNnZXVqX1BibHYycjZVSHhCcGtsakhn?oc=5",
+      "source": "Google News Health US",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-26T13:26:55+00:00"
+    },
+    {
+      "author": "Jancee Dunn",
+      "title": "How To Keep Your Gums Healthy",
+      "description": "Even if you’re diligent about caring for your teeth, you might be overlooking your gums.",
+      "url": "https://www.nytimes.com/2025/09/26/well/gum-health-tips.html",
+      "source": "The New York Times",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-26T09:02:54+00:00"
+    },
+    {
+      "author": null,
+      "title": "A new Ebola outbreak in Congo kills dozens as health officials warn of lack of funds - The Washington Post",
+      "description": "A new Ebola outbreak in Congo kills dozens as health officials warn of lack of funds&nbsp;&nbsp;The Washington PostWHO Confirms 11 New Ebola Cases In Congo&nbsp;&nbsp;NDTVWhat a new Ebola outbreak in DR Congo means for people in the US&nbsp;&nbsp;CNNDemocratic Republic of the Congo Ebola Virus Disease External Situation Report 02 (23 September 2025)&nbsp;&nbsp;ReliefWebEbola Outbreak in the Democratic Republic of the Congo | HAN&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQM0FNc2FxcC1nNzdBWEFxNGxyaEdCTkR6ejlIRjk2b2xKNEZUa2tzSnhPR2FIM1U5WHE3eVJ1czhnM2tpeWxtaVc3ZHFvRDBaVHVySEVvLTlLNFliLTRTTEstMHI3aThiaEJOcmltS3NERWdQdk1JZmczaFdQVEZZTW50RjFmWnZpQ0phbmYydC1uWVBSdW1yY0YyS2NubFpHb29sMGMxVlMyU2RyNUp5MnZBSWN6NDdZa3g5NnZ6SUVtaF8wc0hWMnpnWGZ4eUk?oc=5",
+      "source": "Google News Health IN",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "in",
+      "published_at": "2025-09-25T17:06:47+00:00"
+    },
+    {
+      "author": "Teddy Rosenbluth",
+      "title": "Do You Use A.I. Chatbots for Health Advice?",
+      "description": "We want to hear about it.",
+      "url": "https://www.nytimes.com/2025/09/25/well/ai-chatbots-health.html",
+      "source": "The New York Times",
+      "image": "https://static01.nyt.com/images/2025/09/22/well/WELL-CHATBOT-CALLOUT1/WELL-CHATBOT-CALLOUT1-mediumSquareAt3X.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-25T16:51:30+00:00"
+    },
+    {
+      "author": null,
+      "title": "Why the brain hangs on to some memories but lets others fade - The Washington Post",
+      "description": "Why the brain hangs on to some memories but lets others fade&nbsp;&nbsp;The Washington PostView Full Coverage on Google News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYUM0VF9WNG1YS0RBY3B2UmtBUmh6Smo5VzU1NDgwdENaZ1lZT1VfbWFGNFIwbjltTnJfTkxuaUI3WEtDbGNSTFk3LURJNXZ6ZEd6QUZCVlJiOUFUT29rMmFqd0FveTZDR0hKTWdqU1pwd05RVTZkN2lHdVNMNlhrcnpmRURWcEZXT241bnA2bXozbFk?oc=5",
+      "source": "Google News Health US",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-25T16:23:48+00:00"
+    },
+    {
+      "author": null,
+      "title": "The power of neuroplasticity - when the brain heals itself",
+      "description": "A terrible accident left construction worker Phineas Gage with serious brain damage. Amazingly, he recovered - forever changing our understanding of the human brain.",
+      "url": "https://www.bbc.com/videos/ce9r1e20p2vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - Health",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abe8/live/f614e820-9a28-11f0-97f5-bd38218a3641.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2025-09-25T16:03:19+00:00"
+    },
+    {
+      "author": null,
+      "title": "Opinion | AI just created a working virus. The U.S. isn’t prepared for that. - The Washington Post",
+      "description": "Opinion | AI just created a working virus. The U.S. isn’t prepared for that.&nbsp;&nbsp;The Washington PostMajor advance: Stanford researchers use AI to design viruses; warn of dangers if technology misused&nbsp;&nbsp;Times of IndiaScientists create world’s 1st functioning AI-designed viral genome&nbsp;&nbsp;The Indian ExpressAI-designed viruses are here and already killing bacteria&nbsp;&nbsp;MIT Technology ReviewAI can now design more deadly virus genomes&nbsp;&nbsp;theregister.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMXZmRjlBNmppNzBCdWY1VE5sazdfT1V1cGJhVXhadGMzSFNYT1VMYWJaSTdWTmk3bU5aR3BqbGVkZlNNVkpWM0xjYlN0RE5BTTNPRnpYVzRHNVQ5ZXJyeEJCUVltQ0xFV1RqWjhsTlJxSWlBeXdpVnRseGR1LTk3UTh3QUdqckNjNnlUTE8xZ3ctRDM5aUpjamlsYUpldw?oc=5",
+      "source": "Google News Health IN",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "in",
+      "published_at": "2025-09-25T13:02:02+00:00"
+    },
+    {
+      "author": null,
+      "title": "First successful Huntington’s treatment slows disease progression in small study - The Washington Post",
+      "description": "First successful Huntington’s treatment slows disease progression in small study&nbsp;&nbsp;The Washington PostHuntington's disease successfully treated for first time&nbsp;&nbsp;BBCA clever genetic technique may treat a horrible brain condition&nbsp;&nbsp;The EconomistHere’s why biotech UniQure’s stock just tripled, and brought ClearPoint shares up with it&nbsp;&nbsp;MarketWatchPreliminary but promising gene therapy shows 75% reduction in Huntington's disease progression&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUXhFdWg2SVZzVkFjR2dQYl9HbUhoenVSdlFJcU9aNFk4U0h0M0RjOFl5TWdHUzA0bjJzc0hLZ3Y5a3pQQmQyazVaU3IyT2FIVk1jSjU4MmlDRUlLc3RmSHVmMFpoZmV4TlVEZ043OEFyQVNZZzNPNmRuUzY2YU50SGxQekhNSFI0eF9Dd3JLTUtUNjZUMjFn?oc=5",
+      "source": "Google News Health US",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-25T03:11:52+00:00"
+    },
+    {
+      "author": null,
+      "title": "Flagship NHS pledge hanging in the balance - experts",
+      "description": "A think tank warns the 18-week waiting time target will not be hit by 2029, on current rate of progress.",
+      "url": "https://www.bbc.com/news/articles/c20381z423eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - Health",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e867/live/5d9e56d0-9965-11f0-80b9-69e2e45f1309.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2025-09-25T01:22:48+00:00"
+    },
+    {
+      "author": "Catherine Pearson",
+      "title": "Trump’s Pregnancy Advice Strikes a Familiar Refrain for Mothers",
+      "description": "Mr. Trump, who implored pregnant women not to take Tylenol, is only the latest in a long line of people offering unsolicited advice to expectant mothers.",
+      "url": "https://www.nytimes.com/2025/09/24/well/family/trump-tylenol-pregnancy-advice.html",
+      "source": "The New York Times",
+      "image": "https://static01.nyt.com/images/2025/09/24/multimedia/24WELL-PREGNANCY-PURITY-PRESSURE1-lczb/24WELL-PREGNANCY-PURITY-PRESSURE1-lczb-mediumSquareAt3X.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-24T18:45:33+00:00"
+    },
+    {
+      "author": null,
+      "title": "Are chia seeds and other fibre 'hacks' good for you?",
+      "description": "Obesity and nutritional epidemiologist Dr Deirdre Tobias explains how chia seeds can help you add more fibre to your diet - but only if you're still eating a balanced diet.",
+      "url": "https://www.bbc.com/news/videos/cvgrj408l2qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - Health",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5f9/live/9aa5c7a0-994e-11f0-af62-91486a511a31.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2025-09-24T14:17:29+00:00"
+    },
+    {
+      "author": null,
+      "title": "How to get coronavirus vaccines under planned CDC recommendations - The Washington Post",
+      "description": "How to get coronavirus vaccines under planned CDC recommendations&nbsp;&nbsp;The Washington PostHow to get a COVID-19 shot and ensure it's covered by your insurance&nbsp;&nbsp;WESHDespite RFK's vaccine turmoil, your COVID shot will be covered by insurance&nbsp;&nbsp;USA TodaySeniors: If You Want a Covid Shot Covered by Insurance, It May Pay to Get It This Week&nbsp;&nbsp;InvestopediaA STAT investigation and insurers staying the course on vaccines&nbsp;&nbsp;statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVFctWHB6RFBfdFJCNzd2dEtGS3dxVEwxZGxmU0ViOTNRYmVua18zMTJMZTI1ZlZGUlc0THZkQmVGM00tc1lia2ptQi1BTFg1VlkwUUdiWlpDSzZTd1ZXX0F2WXhHZzhReUcyZWhtcWpoVncwV3NoQWtuYVRvWXFzbHktZWpWRTNlWlJyQ2lIWWtGY1ptOEFZ?oc=5",
+      "source": "Google News Health US",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-24T13:01:58+00:00"
+    },
+    {
+      "author": null,
+      "title": "Column | My 19-year-old granddaughter is depressed. What can her parents do? - The Washington Post",
+      "description": "Column | My 19-year-old granddaughter is depressed. What can her parents do?&nbsp;&nbsp;The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb05lckFlNXZ6Ry1UWEswSlI5eElFTzZ4WllpVGdhc1NfaXhYeThaUTlSTW9jNDN6bnRxT19ON3RZd1RBU1AyZGdpYjhtU1pLM2hTYWozQTlYT3NrYjJmUDhWUHBmNnhkeXpKYWg4ZGpXVEp5d0NxQmdONi1DQ1ZLNkNzWldlU3NLc2JpcUktdEFQX2FmU2pxd2U2aEVuZw?oc=5",
+      "source": "Google News Health US",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-24T13:01:53+00:00"
+    },
+    {
+      "author": null,
+      "title": "Air pollution could be worsening children’s vision, study says - The Washington Post",
+      "description": "Air pollution could be worsening children’s vision, study says&nbsp;&nbsp;The Washington PostCleaner air could help protect children’s eyesight&nbsp;&nbsp;Air Quality NewsExposure to lower levels of air pollutants linked to how well children can see without glasses&nbsp;&nbsp;Medical XpressPeople living in heavily polluted areas face higher risk of irreversible medical condition, study warns&nbsp;&nbsp;Daily MailAir pollution could be harming children’s eyesight, study finds&nbsp;&nbsp;MSN",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRm56TGwzdW1FWWlKWDNCNmZPaURWdnpUUWdKbmdPUUo5UnNFXzRKSnlQLTFHVFRWZ0xEZzFqMGlNWThXSkVpSWpOZXVvZ3p4QlcwVW95bm0zVkN2cG41U2xldnpDX0JsaVl5UG5ZdmlfVzl5SkU0NWtmejIxc3hCRkJGX2pPZjl4c1FMb1JLRTctbC1MVUpNUU1SdTd4T20wYlNVdmJEYw?oc=5",
+      "source": "Google News Health IN",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "in",
+      "published_at": "2025-09-24T11:32:00+00:00"
+    },
+    {
+      "author": null,
+      "title": "Dr. Roach: Gallbladder surgery benefits need to be weighed against risks - The Detroit News",
+      "description": "Dr. Roach: Gallbladder surgery benefits need to be weighed against risks&nbsp;&nbsp;The Detroit NewsTO YOUR GOOD HEALTH: Gallbladder surgery benefits need to be weighed against risks&nbsp;&nbsp;Clinton Herald",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQU2lVX2w2OVk0NEtrV1BVYUZfQlh0VXZ4WHV2VGpncWFMN3lrUXpMNkV6eGNEbmdzNGZKbVVrX2tMaEJ0RGYyN2pzRjZnZWJHaEd0VkVkS1VVa1JVVTBBNkVRZExpZHRSWXpFRjgybjc1VmRyUmdwN1FWUU10VWpIbDE1TVpuNGljRngzWndHZzljUld4bmgyRUZHYmZOb1pRSkNYUWtZQVV5cWYwZmxWUVpQUnNqQWMxUEExTnp5SHYwN3ZRQ1Fac09SZlc5eUM3ejBPNm43SQ?oc=5",
+      "source": "Google News Health US",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-24T11:16:30+00:00"
+    },
+    {
+      "author": null,
+      "title": "Death Notice Valerie Lynn HOUSTON - Funeral Times",
+      "description": "Death Notice Valerie Lynn HOUSTON&nbsp;&nbsp;Funeral Times",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zXzkyZkdKYmFDNVpOQVppSXpjVHJaSXA3UUN3X04yV3BPTTNFRFJTUF9JOFdjWHBlT1lKcTR3aVhWeC1MWFphRFpfZEFuLWR5c0RzdlVTMmNZeW0wOXBoa2lCbTkxTTla?oc=5",
+      "source": "Google News Health GB",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2025-09-24T11:13:10+00:00"
+    },
+    {
+      "author": null,
+      "title": "Huntington's disease successfully treated for first time",
+      "description": "One of the most devastating diseases finally has a treatment that can slow its progression and transform lives, tearful doctors tell BBC.",
+      "url": "https://www.bbc.com/news/articles/cevz13xkxpro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - Health",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63cd/live/66dcf740-98c2-11f0-94c0-d393b11c46d7.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2025-09-24T11:05:10+00:00"
+    },
+    {
+      "author": "David Dodge",
+      "title": "To Treat Prostate Cancer, There Are More Options Than Ever",
+      "description": "It’s among the most common cancers affecting older men. But a diagnosis today isn’t always what it seems.",
+      "url": "https://www.nytimes.com/2025/09/24/well/live/prostate-cancer-treatment-explainer.html",
+      "source": "The New York Times",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-24T09:00:37+00:00"
+    },
+    {
+      "author": null,
+      "title": "Is there hope on the horizon for patients with Alzheimer’s? – podcast - The Guardian",
+      "description": "Is there hope on the horizon for patients with Alzheimer’s? – podcast&nbsp;&nbsp;The GuardianEarly Alzheimer’s Signs? The 3-Minute Home Test Might Reveal The Truth&nbsp;&nbsp;Zee NewsBlood test detects early-onset Alzheimer's as early as 24 years old&nbsp;&nbsp;EurekAlert!This Simple Brainwave Test Can Spot Alzheimer’s Years Early&nbsp;&nbsp;SciTechDaily",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcF91S1hxNDlwLUJ0N0tzbGM1ZFhuVGsyUE9VaGxOY29uWklwMUxPbEQzMlJSSmVuU2U2SFlWVGFRYmFSUktxV2xySURIMnd2T1hIMzVkclRlTWpmbnNzalBrOFR0UWVDR1dvbGR5YVBxZDJ6V3ZfeDdHWktqRWw5UkhrZWlyUXF4TEsyWnIwWlB0Tlc2TmZ6VkI3a29pYUgzMVhYbFhyYVFBRUdReXI4VG56Z25ZdTgyUDE4?oc=5",
+      "source": "Google News Health IN",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "in",
+      "published_at": "2025-09-24T02:31:14+00:00"
+    },
+    {
+      "author": null,
+      "title": "What's the best period product for me?",
+      "description": "Here is a guide to how each product works and the pros and cons to help you decide what might suit you.",
+      "url": "https://www.bbc.com/news/articles/cgl1z3jxy56o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - Health",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30d4/live/7fe18ea0-9556-11f0-a9d0-b91ec0b66439.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2025-09-23T23:02:07+00:00"
+    },
+    {
+      "author": null,
+      "title": "Weight loss could be just a pill away, study of new medication suggests",
+      "description": "A new oral weight loss medication, orforglipron, demonstrated meaningful weight loss results in phase 3 trials, potentially providing an easier alternative to Ozempic injections.",
+      "url": "https://www.foxnews.com/health/weight-loss-could-just-pill-away-study-new-medication-suggests",
+      "source": "FOX News - Health",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/931/523/woman-weight-loss-pill-mouth.jpg?ve=1&tl=1",
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-23T22:20:54+00:00"
+    },
+    {
+      "author": null,
+      "title": "13 High-Fiber, High-Protein Snack Recipes to Make This Week - EatingWell",
+      "description": "13 High-Fiber, High-Protein Snack Recipes to Make This Week&nbsp;&nbsp;EatingWell9 Tasty High-Protein Snacks That Aren’t Eggs&nbsp;&nbsp;GQEggs are great, but these egg protein alternatives might actually be better for you&nbsp;&nbsp;British GQ10 High-Protein Snacks You Can Make in 15 Minutes or Less&nbsp;&nbsp;EatingWell",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ha2Z4SkQ0bENWVUdWY1hWbDJYdFpyZEN0anNiZEhENl9DVDZMc0w1VlBld0x5dlhKUTlMbkNKdDNYZndlYWNPTkhDSXJFVFFXd0ZRMGo5SW0yckl4Y2dBMGdLT1diM2hwc2c3U29fX29GbXoyT0xZaTlMWGlaUQ?oc=5",
+      "source": "Google News Health US",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-23T15:58:37+00:00"
+    },
+    {
+      "author": "Melinda Wenner Moyer",
+      "title": "Can Ginger Really Settle an Upset Stomach?",
+      "description": "We put it to the experts.",
+      "url": "https://www.nytimes.com/2025/09/23/well/eat/ginger-upset-stomach-nausea-vomiting.html",
+      "source": "The New York Times",
+      "image": "https://static01.nyt.com/images/2025/09/23/multimedia/23WELL-ASK-GINGER1-zgmb/23WELL-ASK-GINGER1-zgmb-mediumSquareAt3X.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-23T09:00:30+00:00"
+    },
+    {
+      "author": null,
+      "title": "10 High-Protein Snacks You Can Make in 15 Minutes or Less - EatingWell",
+      "description": "10 High-Protein Snacks You Can Make in 15 Minutes or Less&nbsp;&nbsp;EatingWell",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XRnBaeVJaY09ubVd0SENtWERuT00xeHdBNlJpeGM3YW1VZ3ZwRHl3ekV0aFJUdHRPMG82YlNZQ1JPTC04SW9HdkpsLXdfRDB0X2xzTmpsREwyTEQ3dXRPNU02ZjlMR29BTVJEQmtUQmJrUlRyX0FTS3dBODY?oc=5",
+      "source": "Google News Health US",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-23T08:08:51+00:00"
+    },
+    {
+      "author": "Maggie Astor, Dani Blum and Christina Caron",
+      "title": "What to Know About Tylenol, Pregnancy and Babies",
+      "description": "President Trump said on Monday that there was a link between Tylenol use during pregnancy and autism, a claim that is unproven.",
+      "url": "https://www.nytimes.com/2025/09/22/well/tylenol-autism-pregnancy-babies.html",
+      "source": "The New York Times",
+      "image": "https://static01.nyt.com/images/2025/09/22/multimedia/22well-tylenol-pregnancy-fcvp/22well-tylenol-pregnancy-fcvp-mediumSquareAt3X.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-23T01:21:34+00:00"
+    },
+    {
+      "author": null,
+      "title": "Trump links pain reliever Tylenol to autism - but many experts are sceptical",
+      "description": "Some studies have suggested an association between the two, but experts say there is no causal relationship.",
+      "url": "https://www.bbc.com/news/articles/cx20d4lr67lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - Health",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efd6/live/8b5ddf10-979d-11f0-84a3-e314c0b97a4c.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2025-09-22T21:18:43+00:00"
+    },
+    {
+      "author": null,
+      "title": "Gut-skin axis: Emerging insights for gastroenterologists-a narrative review - Baishideng Publishing Group",
+      "description": "Gut-skin axis: Emerging insights for gastroenterologists-a narrative review&nbsp;&nbsp;Baishideng Publishing Group",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52aVV1dE5UUW9yY1U0djRsT0hjTUVnY3lkYXNqR29pS0FrTjBxWl9hdm1lRjhILVVKTFdib3pYbzJvLWFMRkxBVXhkb1VyWkhvdURIWlZkLWhWcUNpaVpEa2FqTWM1dw?oc=5",
+      "source": "Google News Health IN",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "in",
+      "published_at": "2025-09-22T15:58:28+00:00"
+    },
+    {
+      "author": null,
+      "title": "28-Year-Old Influencer Says She Went from Planning Her Wedding to Facing Incurable Brain Cancer - AOL.com",
+      "description": "28-Year-Old Influencer Says She Went from Planning Her Wedding to Facing Incurable Brain Cancer&nbsp;&nbsp;AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBUQ2NIeWNSbUhucmFkcVNwRHk4YVIwbU81YmVLTGFKLWRRYmhiSUFJbFFDQWtmbktkQ01tcVhVRkNHeFlFU0VVOXF3Qkd5WnZSYjY3aE9mUjVxM05fNlRlNk5RQ2pPQkRBNW9MOXpDOUhzVmlieHQ0VXVR?oc=5",
+      "source": "Google News Health US",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-22T14:10:36+00:00"
+    },
+    {
+      "author": null,
+      "title": "Weight-loss drugs can cut future health costs. The fight is over who pays now. - The Washington Post",
+      "description": "Weight-loss drugs can cut future health costs. The fight is over who pays now.&nbsp;&nbsp;The Washington Post13 kgs lost in 4 months – how new weight-loss shots are changing lives&nbsp;&nbsp;The Times of IndiaDelaware report shows growing use of GLP-1 meds are driving increased spending, not drug price tags&nbsp;&nbsp;WHYYAI, Personalized Medicine, and GLP-1 Receptor Agonists Reshape Pharmaceutical Commercialization Strategies&nbsp;&nbsp;geneonline.comWill your insurance pay for weight loss drugs like Ozempic?&nbsp;&nbsp;AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLXhGOVF6alUzcF9GcUZhLXFpU0pMQXJjRWxKLTlSYk9JTVF3RHdpZVZSaXZEaGFuZE5ubXpnNXVTXzhjY252RXRoV0hZa2FBcEljQnhfYjVGbHM2UFJkY3Ytd3ZJejVqUGVBNnkwN0hvaXdpUWQtck5zOTBWSTBxLUtKcEdJUXFvdUhOMndUTllYcTFX?oc=5",
+      "source": "Google News Health IN",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "in",
+      "published_at": "2025-09-22T13:02:04+00:00"
+    },
+    {
+      "author": "Alyssa Ages and Theodore Tae",
+      "title": "7 Exercises for Stronger Glutes",
+      "description": "Strengthening these muscles can help your whole body move more easily.",
+      "url": "https://www.nytimes.com/2025/09/22/well/move/glute-strength-exercises.html",
+      "source": "The New York Times",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-22T09:00:33+00:00"
+    },
+    {
+      "author": null,
+      "title": "One kiss you don't want: Bloodsucking 'kissing bugs' are here to stay - USA Today",
+      "description": "One kiss you don't want: Bloodsucking 'kissing bugs' are here to stay&nbsp;&nbsp;USA Today‘Kissing bug’ disease is here to stay in the US, experts say. Here’s why it’s spreading&nbsp;&nbsp;CNNWhat To Know About the ‘Kissing Bug’ Disease: Symptoms, Risks and More&nbsp;&nbsp;The New York TimesMissouri's 'kissing bugs' are spreading an incredibly rare parasitic disease that's here to stay, CDC says&nbsp;&nbsp;KSDK'Kissing bug' disease on track to be considered an endemic in US&nbsp;&nbsp;FOX 2 Detroit",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbUNkSEp0b29ENVZrcm9wSVhYVFhQeGwwMTR1ZE8wQlh2X3hvZ0Vocm0yb1c1ZmNEUXRNN3RCNUNvR3BfUDVaczZfRmdZcGZDSFppYWZoTEx2VVhwd3R0ZkZhTnNwdUtZVlpLNkJXZV9fM2lRc3AzQmhGYWxyV2Q1eUo2VHlRNFJXRlBvT2Y5MjhteXl0TkVjdmVMSWlMZnYzRmtIYWt5Q0hxREZncjEwRFBTRQ?oc=5",
+      "source": "Google News Health US",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-22T08:52:10+00:00"
+    },
+    {
+      "author": null,
+      "title": "If you wake up feeling exhausted despite 8 hours of sleep, your body is trying to tell you these 9 things - VegOut",
+      "description": "If you wake up feeling exhausted despite 8 hours of sleep, your body is trying to tell you these 9 things&nbsp;&nbsp;VegOut",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeEZhcXJDZFR4aTZrekl1STlMWjgwN3hJdndpMW8zcWluMnBhV2NhRFVmZ28xdnp2YlBoNnhyUjFIVGY0WkJvU1loSmxQSjE3dzBWdVR5Sll6dms0RW0xRFBTcGZqQmhWNkFsb2xaUmNScGVnUW9qanhHSkhlaFNFUExGTDVrbzZLNnpZQXdueldmbWxHTVFTM3A3eU9SZnNzWGpEenJrRHhxcUpDMWVrazFQWWpSc3A3OGNFOW9aWmNlb3JKLTJxaVUtcUVJZjJnMGd2UTZUX19QQQ?oc=5",
+      "source": "Google News Health US",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-21T21:17:01+00:00"
+    },
+    {
+      "author": null,
+      "title": "5 surprisingly hopeful things we learned about Alzheimer’s this year - The Washington Post",
+      "description": "5 surprisingly hopeful things we learned about Alzheimer’s this year&nbsp;&nbsp;The Washington PostSee How Alzheimer's Disease Works—And How the Newest Treatments Fight It&nbsp;&nbsp;Scientific AmericanNew insights on how to prevent and diagnose dementia&nbsp;&nbsp;Psychology TodayMaking real gains in war on Alzheimer’s&nbsp;&nbsp;Harvard GazetteHow much progress has been made against Alzheimer's disease?&nbsp;&nbsp;Iosco County News Herald",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdjhHcU9VT0FiTHNPNnkwV211UllzWW01b0VtWGNTNV9FQWpTYTlfU0N2ajVHLThQVGt1VTlHMkJGM19YWnRmWncyeFN0Q0tMQlFtYWJmQ3hTVlFrbWJEU0pEcEFqTGpJOUdRWFl3U05sNlFFbVp6aTgyckJMLVJLTEwyenNZYW1rRkUwclhnLTZhdw?oc=5",
+      "source": "Google News Health US",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-21T14:31:51+00:00"
+    },
+    {
+      "author": null,
+      "title": "Vaccine panel tension exposes broader conflict about science under RFK Jr. - The Washington Post",
+      "description": "Vaccine panel tension exposes broader conflict about science under RFK Jr.&nbsp;&nbsp;The Washington PostHow RFK Jr. Could Eliminate Vaccines Without Banning Them&nbsp;&nbsp;The AtlanticWary of RFK Jr., Colorado started revamping its vaccine policies last spring : Shots - Health News&nbsp;&nbsp;NPRThe damage RFK Jr. has inflicted on the Kennedy vaccine legacy&nbsp;&nbsp;The Boston GlobeWho Makes Decisions About Vaccine Policy Now?&nbsp;&nbsp;The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQanZ0UjlmMkI3VnNQZVVVVnBkN296X3ZqaTF4aGd6emhNQ1NuZVhHNzFvU3dPLThxNDZmZFlidVU1bVh3TVFuMTJ5ZnVvN3NVWDc4aFdLeFV1YWFZTU82OXU3Mi1EaFNsUFRUeEpNMUlfRVA0ZlpaM1Y2RDczX2V6U0kxZ0RlWUU?oc=5",
+      "source": "Google News Health US",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-20T11:32:06+00:00"
+    },
+    {
+      "author": "Danielle Friedman",
+      "title": "How Good Is Exercise That Feels Effortless?",
+      "description": "The “zone zero” fitness trend promotes very low-intensity movement, like walking and housework. Here’s what it can — and can’t — do for you.",
+      "url": "https://www.nytimes.com/2025/09/20/well/move/zone-zero-exercise.html",
+      "source": "The New York Times",
+      "image": "https://static01.nyt.com/images/2025/09/20/well/20Well-Zone-Zero/20Well-Zone-Zero-mediumSquareAt3X.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-20T09:00:29+00:00"
+    },
+    {
+      "author": null,
+      "title": "New weight-loss jab side effect 'alarming and permanent', pharmacist says - The Mirror",
+      "description": "New weight-loss jab side effect 'alarming and permanent', pharmacist says&nbsp;&nbsp;The MirrorMy Incurable Condition Is A Potential Ozempic Side Effect. Trust Me — Weight Loss Isn't Worth This.&nbsp;&nbsp;BuzzFeedAs obesity management medications explode in popularity, obesity experts issue caution on who should prescribe them&nbsp;&nbsp;Temple UniversityAre the new weight-loss medicines safe?&nbsp;&nbsp;Hospital Clínic BarcelonaWeight loss injections: Expert answers to common questions&nbsp;&nbsp;HELLO! Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAxeDR1enp1YXRua3ZTV3NpNUlNd1BNV01CU1NLTlpQSEUzUjBraEtISFlBYVV5bEpyam5xWXZ5cldFSEotZHZ0b1Z5LXFCUEkzNjdEMG1yUEdhTGVSWDNIQmVBOGpEcWZlSTVtMlJYZU5yYlNJd1hTaUlB0gF_QVVfeXFMTVExeXl2b1Rjc0FERFh0Z0ktTWF0NU9SRHQ2WV93cWFGWlpkNFBsV3pSZ1NEZmVIS1Nkb2dGN3dsMVlrWWRiUExiajZfSVBRd3pYYVp3bml3OC1uUTdrREE0RWtpcG5XYWYwbVJyNkJVRDA1MHB4Q3EyUnF2Q2dUUQ?oc=5",
+      "source": "Google News Health IN",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "in",
+      "published_at": "2025-09-20T07:07:06+00:00"
+    },
+    {
+      "author": "Jeré Longman",
+      "title": "Jack Daniels, Olympic Medalist and ‘World’s Best’ Running Coach, Dies at 92",
+      "description": "Tutoring Olympians, he created a simple workout formula that was said to produce the best results with the least effort, earning accolades across the running world.",
+      "url": "https://www.nytimes.com/2025/09/19/sports/jack-daniels-dead.html",
+      "source": "The New York Times",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-19T20:01:58+00:00"
+    },
+    {
+      "author": "Paulina Villegas and Greta Rico",
+      "title": "In Mexico, New Mothers Are Seeking Out Old Rituals",
+      "description": "Some women in the country’s capital are turning to midwives who they say offer a more holistic approach to care than hospitals usually provide.",
+      "url": "https://www.nytimes.com/2025/09/19/world/americas/mexico-midwife-postpartum.html",
+      "source": "The New York Times",
+      "image": "https://static01.nyt.com/images/2025/09/11/well/00well-world-mexico-midwives1/00well-world-mexico-midwives1-mediumSquareAt3X.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-19T19:16:25+00:00"
+    },
+    {
+      "author": null,
+      "title": "Unmasking the silent epidemic: Mortality trends in diabetic nephropathy - Baishideng Publishing Group",
+      "description": "Unmasking the silent epidemic: Mortality trends in diabetic nephropathy&nbsp;&nbsp;Baishideng Publishing Group",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05RFJYMWNweWhYd2EwY1oyem1uRHpyTVZKa3g3cThXV1pJaE5Xc1RDM0llWFdtc0dTZ045TkloSUlTWUk5YU0wYjJtaG94enlIVVpPNFdwOUlnYk1TNDNOTUhLMFluUQ?oc=5",
+      "source": "Google News Health IN",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "in",
+      "published_at": "2025-09-19T16:07:37+00:00"
+    },
+    {
+      "author": "Apoorva Mandavilli",
+      "title": "CDC Vaccine Panel Postpones One Vote and Reverses Another Amid Confusion",
+      "description": "Committee members delayed indefinitely a vote on a hepatitis B vaccine for newborns because they did not feel ready to make a decision.",
+      "url": "https://www.nytimes.com/2025/09/19/health/cdc-vaccines-mmrv-hepatitis-b.html",
+      "source": "The New York Times",
+      "image": "https://static01.nyt.com/images/2025/09/19/multimedia/19HS-acip-01-lhpc/19HS-acip-01-lhpc-mediumSquareAt3X.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-19T16:06:12+00:00"
+    },
+    {
+      "author": null,
+      "title": "RFK Jr. vaccine advisers to consider coronavirus shot recommendations - The Washington Post",
+      "description": "RFK Jr. vaccine advisers to consider coronavirus shot recommendations&nbsp;&nbsp;The Washington PostCDC advisers vote to recommend against combo vaccine for young kids, delay vote on newborn hepatitis B shot&nbsp;&nbsp;CNNCDC's vaccine advisory panel to vote on hepatitis B, COVID-19 vaccines for fall season&nbsp;&nbsp;CBS NewsCDC advisers vote to change guidance on MMRV vaccines&nbsp;&nbsp;NPRRFK Jr.’s Vaccine Committee to Vote on Hepatitis B and Covid Shots&nbsp;&nbsp;The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeERZUlRfenhZWjVfMW9nX1ZTb0IwNXBTcm91QXhudWNLUHg5S3VSejNxY0JHckhvRXg3WVBQWkVRRE1kVVdEbFNsblVMZ194Ti1GUFkyLU5FYzNNUW1LbjBtMnJETDEyNmpBeVdVWWpsRUk1bVozT2JzcG16U2FMNWhYTQ?oc=5",
+      "source": "Google News Health US",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-19T13:02:17+00:00"
+    },
+    {
+      "author": "Jancee Dunn",
+      "title": "How to Make Up With Your Partner After a Fight",
+      "description": "You’re both rattled. You feel out of sorts. Here’s how to get back on track.",
+      "url": "https://www.nytimes.com/2025/09/19/well/how-to-make-up-after-a-fight.html",
+      "source": "The New York Times",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-19T09:05:16+00:00"
+    },
+    {
+      "author": null,
+      "title": "When a Simple Swim Carries a Risk of Dangerous Illness - The New York Times",
+      "description": "When a Simple Swim Carries a Risk of Dangerous Illness&nbsp;&nbsp;The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KbWFBQTNLX1pldGx2Q3dWa3ZtODhKZTNmQXdZVHUwV1pJcTRlaUM2a05rRkJaZlp3WU1ldXRuYjZTZHJpbkljVExHSHFkNzFkSUZqd1h0RmNFaW5hYXNvSDUtQjhVX0lha3I2SERRMS1uU2RScTdlczJYaw?oc=5",
+      "source": "Google News Health US",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-19T06:06:15+00:00"
+    },
+    {
+      "author": null,
+      "title": "10 things that become almost impossible after 60—unless you've aged exceptionally well - VegOut",
+      "description": "10 things that become almost impossible after 60—unless you've aged exceptionally well&nbsp;&nbsp;VegOut",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeFlBU3o0cTBFa3FhcVFEVGNiVlJ4dC03czU5M2N1aUdIMVRxanU5d0tER2l6bDRHNWJfX1Z3M1FfdFlMNFA1WEhJaG1pRFhKb3NvSHZxZnBDRHh6QVhLdXBVWFFmMHkwc3Z2V29JaVhKbzZrLXNBVVQ0Y0EwM3VxcmlEZ1I2SXI3emxwdDN4Tl83NFlPTFp5Sm1tQWxMbVh0V2ZtaDBRbXRiM1hSbHJOX3V0eVVYU19kSnZLXw?oc=5",
+      "source": "Google News Health GB",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2025-09-18T20:35:48+00:00"
+    },
+    {
+      "author": null,
+      "title": "Common over-the-counter medication slashes colorectal cancer recurrence in half",
+      "description": "Researchers found that 160 milligrams of daily aspirin significantly lowered cancer recurrence risk for colorectal patients with PIK3 pathway alterations.",
+      "url": "https://www.foxnews.com/health/common-over-the-counter-medication-slashes-colorectal-cancer-recurrence-half",
+      "source": "FOX News - Health",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/931/523/older-man-looking-at-pill-bottle.jpg?ve=1&tl=1",
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-18T18:12:26+00:00"
+    },
+    {
+      "author": "Danielle Friedman",
+      "title": "Can Pilates Really Make My Muscles ‘Long and Lean’?",
+      "description": "Here’s what the workout can and can’t do for your fitness.",
+      "url": "https://www.nytimes.com/2025/09/16/well/move/pilates-long-lean-muscles.html",
+      "source": "The New York Times",
+      "image": "https://static01.nyt.com/images/2025/09/16/multimedia/16WELL-ASK-PILATES-MUSCLES1-jltg/16WELL-ASK-PILATES-MUSCLES1-jltg-mediumSquareAt3X.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-18T16:00:46+00:00"
+    },
+    {
+      "author": "Simar Bajaj",
+      "title": "Why Obesity Is Killing American Men",
+      "description": "Men seek weight loss treatment far less often than women. Doctors are concerned.",
+      "url": "https://www.nytimes.com/2025/09/18/well/live/obesity-american-men.html",
+      "source": "The New York Times",
+      "image": "https://static01.nyt.com/images/2025/08/25/multimedia/WELL-OBESITY-MEN1-hjvb/WELL-OBESITY-MEN1-hjvb-mediumSquareAt3X.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-18T15:32:00+00:00"
+    },
+    {
+      "author": null,
+      "title": "CDC advisers weigh first big change to child vaccine schedule under RFK Jr. - The Washington Post",
+      "description": "CDC advisers weigh first big change to child vaccine schedule under RFK Jr.&nbsp;&nbsp;The Washington PostHead of RFK Jr.’s handpicked CDC vaccine advisory panel to challenge former agency directors to debate&nbsp;&nbsp;CNNHepatitis B shot has been recommended to newborns for decades. Is that about to change?&nbsp;&nbsp;USA TodayHow CDC's vaccine advisers could affect policy. And, Jimmy Kimmel pulled off the air&nbsp;&nbsp;NPRRepublican Senator Casts Doubt on Kennedy’s Vaccine Advisers&nbsp;&nbsp;The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTHRCaDNZem1PMzRxM2lVaUMyMU5IZVNNWVcyRWFYaE53S21lVHEwNWtxZTZfWnZzS3RQWWlHcXNJM2RLWjZHMFVLbnhuQlpZUWhlWThzcEZQbGdSdWZTTGN2STlDdzJsRHg1amhZNEQtZUdnbF85UWlNM2d1ODNSUHFqU1cxTHJSOEQwcEF5SGpnUDhqNXc?oc=5",
+      "source": "Google News Health US",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-18T14:32:31+00:00"
+    },
+    {
+      "author": null,
+      "title": "WHO says 31 of 38 Ebola cases in Congo have resulted in deaths - The Washington Post",
+      "description": "WHO says 31 of 38 Ebola cases in Congo have resulted in deaths&nbsp;&nbsp;The Washington PostNew Ebola Outbreak In Africa: Here's What You Must Know&nbsp;&nbsp;NDTVEbola vaccination begins in the Democratic Republic of the Congo&nbsp;&nbsp;WHO | Regional Office for AfricaDemocratic Republic of the Congo (DRC), Emergency Appeal MDRCD047 - Ebola&nbsp;&nbsp;ReliefWebNew Ebola outbreak in Congo claims lives; WHO sounds global alarm&nbsp;&nbsp;Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdFdIVG0zNjRndm5iMUNXZFJEd1pXdjZXeUd1aGVUSno5cVZ3UUN1TGQxUVJwVzY2alpoWm44ZEtGWE1zSlVOTHhwNkhMSDczd3VjZTFOWnJLeGtFMGtBakgwWEQwWUJzSDkzMk5hY0hfYUhNcUJFbFQtSzEtYjFFZkZKdGV2ZzZYRmxPWmFKQ1hJd3Z3X01OZlYxUFJLSkVLN244NkVkZXR5cFZPUlc3Yg?oc=5",
+      "source": "Google News Health IN",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "in",
+      "published_at": "2025-09-18T13:52:10+00:00"
+    },
+    {
+      "author": null,
+      "title": "A soft play designed for autistic kids",
+      "description": "The play area also has a calming room for children to relax in.",
+      "url": "https://www.bbc.com/news/videos/cy4jn5wp4e4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - Health",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1633/live/9b4e4c90-9480-11f0-b391-6936825093bd.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2025-09-18T13:36:48+00:00"
+    },
+    {
+      "author": null,
+      "title": "Guest column | I’m a psychologist. Here’s how mindfulness can help you get healthier. - The Washington Post",
+      "description": "Guest column | I’m a psychologist. Here’s how mindfulness can help you get healthier.&nbsp;&nbsp;The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM0Z0cUNsejVFVlQxd0lDeVU1c19ZQXFKRkJwNzJYZzFqX3JWRFhaYTRfdlV6blFmTmZCVDN5bkNTVWNRalluWjQ0TElYMDZMblppZFQ1YnF0d1hOdVJfSGl2NlNobVVKOG10XzNydFZva3pMZVNSZDEtZnd3U2JpQWhTNU0wWkhtSTM4SDlqTQ?oc=5",
+      "source": "Google News Health US",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-18T12:38:25+00:00"
+    },
+    {
+      "author": null,
+      "title": "Trust apologises for treating A&E patients in cafe",
+      "description": "Using the cafe to treat patients \"will not be allowed to happen again\", the trust's boss says.",
+      "url": "https://www.bbc.com/news/articles/c1dqnyzx7eyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - Health",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e2c/live/2d536550-9475-11f0-bc01-a3a35aa734ac.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2025-09-18T10:47:03+00:00"
+    },
+    {
+      "author": null,
+      "title": "D.C. Council passes measure to allow covid vaccine without a prescription - The Washington Post",
+      "description": "D.C. Council passes measure to allow covid vaccine without a prescription&nbsp;&nbsp;The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSTVSYVlsaV9UekQ3MFk1QWhldVc1Y3JfcXlEQU1NakNwNmxycnVFS081cW5sdmRUR1g3SzBUTXFqUFpZSVF1a1JQYUdrcnV5QjJkQUdxZkM2b0xWQkxfdGhlUFN1eURTOHYyV0VEc3FpVmJhR1ExUjdHZm81cDRmS0haZ2d2cHZjVFgwMEZ5S3N0T1BmcGc?oc=5",
+      "source": "Google News Health US",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-18T06:17:37+00:00"
+    },
+    {
+      "author": null,
+      "title": "Calls to include menopause support in cancer care",
+      "description": "A survey shows that 90% people say they are not given plans to help manage menopause.",
+      "url": "https://www.bbc.com/news/articles/cn5qk722k3qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - Health",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bf6/live/fb51e310-93ca-11f0-98dc-53d10dedbfc6.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2025-09-18T05:01:29+00:00"
+    },
+    {
+      "author": "Dana G. Smith",
+      "title": "Many Minor Hits Can Damage an Athlete’s Brain, Studies Find",
+      "description": "New research in amateur football and soccer players has identified some potential early warning signs of C.T.E.",
+      "url": "https://www.nytimes.com/2025/09/17/well/mind/brain-damage-sports.html",
+      "source": "The New York Times",
+      "image": "https://static01.nyt.com/images/2025/09/16/well/BRAIN-SPORTS-STUDIES1/BRAIN-SPORTS-STUDIES1-mediumSquareAt3X.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-17T21:31:10+00:00"
+    },
+    {
+      "author": null,
+      "title": "We asked dietitians for healthy high-protein meals. Here’s their list. - The Washington Post",
+      "description": "We asked dietitians for healthy high-protein meals. Here’s their list.&nbsp;&nbsp;The Washington PostHeart surgeon shares 6 favorite high-protein foods—no meat required - Metabolic&nbsp;&nbsp;OkDiario7 High-Protein Fruits to Boost Weight Loss and Muscle Growth&nbsp;&nbsp;Odisha TV5 Protein-Rich Foods For Those On A Plant-Based Diet&nbsp;&nbsp;Republic World",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWllrNnhxS2ZjSTg2ZnhMbllubXdsQUxmX2UxMjRPdFVMTnZ3ZkRfb1QtVndfOUd0SktDdmhLMHRickw0MHBWLVVYcGhDUllTbWd5cGdoU3BBeHo4LVU2QlJvRzhXNUdiTnhHZEQxZ2FJeERHMk1MVnhOVmE5VThGZHJnR1A?oc=5",
+      "source": "Google News Health IN",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "in",
+      "published_at": "2025-09-17T09:51:33+00:00"
+    },
+    {
+      "author": null,
+      "title": "What happens to your hair if you shave, cut or pluck it - The Washington Post",
+      "description": "What happens to your hair if you shave, cut or pluck it&nbsp;&nbsp;The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQakpqRVBTYm5JbkpBZFptY3F0OXMwazJrMnhVVTBYelBwYjFETUozQnhGaGI0azZneGRlUnhOTW1xdGpfNTUybzFjRXFWZDJZR0F2UV91WkFOaWpkZHVSd2w3dTVROC14LTlob1A0bERQTkoxdU5oaUJ2VzI3d0dwNjljUDNyRk5UNXlVVEZoZXk5NDlmNXpLLWVLQQ?oc=5",
+      "source": "Google News Health US",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-16T11:31:52+00:00"
+    },
+    {
+      "author": null,
+      "title": "Dr. Roach: Understanding the risk reduction of statins with cholesterol - The Detroit News",
+      "description": "Dr. Roach: Understanding the risk reduction of statins with cholesterol&nbsp;&nbsp;The Detroit News",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOWdobmFnd016dTRmRE0tUThxRnhqNDRUY3gxYnhBd0lTNFQyTnJISHlKU2xaVkdDV3V0RS1YLV9hRHFZdmExeU9sLThPUjRXb0RSSzdzZ2lWWU1DbEJBMUMxUDFOOGlWcTZzOFJzS1NmUGVjUEwtN1JJZVpuaHVrdDZfWEFKQjhPUEhidkl0QnZlOE13VzZFQ2Z5dTVna21vMmZCOXZXdC0xaFFOSEFCQlN4bWpjU2RZWUNrVHVFcXAxTjJaVFBkZkN3Q2FOeUxuOGZQTUZ3?oc=5",
+      "source": "Google News Health US",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-16T07:56:49+00:00"
+    },
+    {
+      "author": null,
+      "title": "How gaming can be good for your mental health",
+      "description": "Psychologist and gaming expert Nick Ballou has five ways how gaming can boost your mental health and wellbeing.",
+      "url": "https://www.bbc.com/news/videos/c0jq7n2y3jvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - Health",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82d6/live/42958d40-9258-11f0-b391-6936825093bd.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2025-09-16T05:58:12+00:00"
+    },
+    {
+      "author": null,
+      "title": "Let's have a conversation about periods",
+      "description": "Three teenage girls talk to 5 Live about the importance of safe and open conversations on topics such as hormones, periods and mental health.",
+      "url": "https://www.bbc.com/news/videos/cz9jynyde1qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - Health",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc5f/live/28b0be00-9261-11f0-84c8-99de564f0440.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2025-09-16T05:47:54+00:00"
+    },
+    {
+      "author": null,
+      "title": "Officials suspect avian flu after dead vultures are found in Maryland - The Washington Post",
+      "description": "Officials suspect avian flu after dead vultures are found in Maryland&nbsp;&nbsp;The Washington PostDead vultures in Maryland test presumptively positive for bird flu&nbsp;&nbsp;WJLAAnne Arundel County sees third detection of avian influenza, MDA says&nbsp;&nbsp;WBAL-TVHPAI Confirmed in Henry County Backyard Flock&nbsp;&nbsp;Morning Ag ClipsPoultry Farmers Urged to Practice Enhanced Biosecurity&nbsp;&nbsp;Maryland.gov",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLVFjNTVkakY1Sm1CeGZxd3FscXh6TXN6UEZzQkRXemRoYlYzNTVfeGlNM0RzUDBmbWhTNC1ETmpzcmxJWUlVeDdHUTJFSTd5Vm9pM0t4aFFFRDVFWHVJb19lSVJ3WHV3MUtxaU9wTDBWNGpCM3EzSE0xSE0zS1VRZGZtT0Q?oc=5",
+      "source": "Google News Health US",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-16T04:26:59+00:00"
+    },
+    {
+      "author": "Simar Bajaj",
+      "title": "What To Know About the ‘Kissing Bug’ Disease: Symptoms, Risks and More",
+      "description": "Though some researchers believe it should be labeled endemic in the United States, most Americans don’t need to worry about getting sick.",
+      "url": "https://www.nytimes.com/2025/09/15/well/kissing-bug-chagas-disease.html",
+      "source": "The New York Times",
+      "image": "https://static01.nyt.com/images/2025/09/12/well/WELL-KISSING-BUG1/WELL-KISSING-BUG1-mediumSquareAt3X.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-15T21:27:28+00:00"
+    },
+    {
+      "author": "Kate Lindsay",
+      "title": "The Wellness Industry Carves Out a New Niche: Pets",
+      "description": "With “collagen puptides,” raw meat diets and longevity supplements, some owners are going full Goop.",
+      "url": "https://www.nytimes.com/2025/09/13/well/pet-wellness.html",
+      "source": "The New York Times",
+      "image": "https://static01.nyt.com/images/2025/09/02/well/WELL-WELLNESS-PETS-INDUSTRY4/WELL-WELLNESS-PETS-INDUSTRY4-mediumSquareAt3X-v2.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-15T20:23:37+00:00"
+    },
+    {
+      "author": null,
+      "title": "High BMI and obesity may not always increase mortality risk - News-Medical",
+      "description": "High BMI and obesity may not always increase mortality risk&nbsp;&nbsp;News-MedicalBeing too thin could be deadlier than being overweight, research shows&nbsp;&nbsp;The Times of IndiaYou can be fat and fit, finds diabetes study&nbsp;&nbsp;thenationalnews.comBeing Underweight Might Be Deadlier Than Being Overweight&nbsp;&nbsp;GizmodoToo Thin May Be Riskier Than Overweight, Danish Study Finds&nbsp;&nbsp;Menafn.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ1NkZWZkbkNZMDg5SHh4TEZ4T1ZfM1R4MWZIalpaX3E4T1pxSlVqdnBwSUEwb0xsZENZSks4WFNVMDYteGkwcnI2OXZMUVpYMklzNnh4eVZwWnlIMENHTlk5aUNOejV5RnVvSU1YNExIVHhTck1WZEdIOHNXdVpwZXBETWJVWUxVaHJRaDBZa2k5R1NyMDIyNEhLeC1MQjBEX0FqNTBibE1taFU?oc=5",
+      "source": "Google News Health IN",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "in",
+      "published_at": "2025-09-15T16:21:00+00:00"
+    },
+    {
+      "author": null,
+      "title": "Do you really need a magnesium supplement?",
+      "description": "Drs Chris and Xand sit down with Professor Stella Volpe, the Head of the department of Nutrition, Food and Exercise at Virginia Tech in the US.",
+      "url": "https://www.bbc.com/news/videos/c9dx540q3y7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - Health",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0212/live/b8798390-8eed-11f0-84c8-99de564f0440.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2025-09-15T15:32:19+00:00"
+    },
+    {
+      "author": null,
+      "title": "No gym. No workouts. Madhavan, just by changing his chewing style and food habits, lost weight in 21 days. - The Economic Times",
+      "description": "No gym. No workouts. Madhavan, just by changing his chewing style and food habits, lost weight in 21 days.&nbsp;&nbsp;The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNWm9FdWFmR2VUWXFIYnFVNGNUS2tEYm9vLTk3T29mRWRma3RUQi1URENFNnBhaWp1bVgtY3U4b2lyU082Q3FMcjg3SDZEVkNKN3Jza3lVbWdleGZOcWZadzkyTW9jN3FmYkx4dm9nbEZmdUFiYWMwclR5cHVlN1phaXdnYjk2MGpOUFNPOWxnd291OG8yNjB1RnN3LUtTOHh4RzBreUxZQjFYdkpBZDh3MzJfeWtJN3hFVXNhdnFiVTYwMk5EWkxlVjJoMEN2bldFbTk2aE1IRnhCSTdaUmRTZk1SdXFRLWxZNGdvSDhybEpJU1ZnMmRsaVZxN1UwMXRZcG9lYWlka3kzdGhWa2hRTmFhWGI1X1NuMWhybjBkY1djVGfSAagCQVVfeXFMT2xscnpkM1pNcjExTVdtNC04WVB5YzA5enBIWTZnMXdCOW9HYTJ5b25jSWgzb0lmdkhfcXZ4YWJOUHRYVEVBRW9XUjRER1dSR3FlcGVCS0hzX1lRR2psWEMyYzRMeXBkUm9JeWc2V1A5Q0o5U0NxdkowRVhWOGFWSkx6ZUNQdXcySzZrUFQ0ZUJBbzBObUpfeFFCcnVUWnctcENhNW1maVk2LWh3Y2FtQ19TbkxEaXN1WHNVV3k5dXBVVkItNFNUclNNcXJMY1cyckpMSi02ZVVRdmdyRHRlU1M1WW43TXgtLW5wLVJDRmxEVzZIX0wxcXhfcVpJbUVXN2RWaXZMMUZ5RXFXdHlvYk9pRDRNM0JqS0pYWHJpMkI2azdRcmlnM3c?oc=5",
+      "source": "Google News Health IN",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "in",
+      "published_at": "2025-09-15T12:46:08+00:00"
+    },
+    {
+      "author": null,
+      "title": "Who’s more sensitive to pain, men or women? The answer may surprise you. - The Washington Post",
+      "description": "Who’s more sensitive to pain, men or women? The answer may surprise you.&nbsp;&nbsp;The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90X0tGWDFWNWRzYVlRN091ZlEzU1JyOXJvYWtjV2RFRi1uRkprWTNtMHVFc3h6d2E0TlpsSC05dUktSUNGQVlPZ2FhYTEtTjNDdWhGeUFvX291bWZNdEpHblRTbWg0cWpYTV84dE9DempqSmh1UkNERlB3?oc=5",
+      "source": "Google News Health US",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-15T09:17:55+00:00"
+    },
+    {
+      "author": "Erica Sweeney",
+      "title": "Why Does It Cost So Much to Have Dental Work Done?",
+      "description": "Many people assume coverage for teeth works the same as other insurance. It doesn’t.",
+      "url": "https://www.nytimes.com/2025/09/15/well/live/dental-insurance-problems.html",
+      "source": "The New York Times",
+      "image": "https://static01.nyt.com/images/2025/09/15/well/15Well-Scam-DentalWork/15Well-Scam-DentalWork-mediumSquareAt3X.png",
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-15T09:00:36+00:00"
+    },
+    {
+      "author": null,
+      "title": "Eating healthy? Hidden Cancer risks in your diet that no one warned you about - Mint",
+      "description": "Eating healthy? Hidden Cancer risks in your diet that no one warned you about&nbsp;&nbsp;Mint8 science-backed habits to help reduce cancer risk, according to a Harvard trained gastroenterologist&nbsp;&nbsp;The Times of IndiaDoctor-approved Indian diet swaps to reduce cancer risk naturally&nbsp;&nbsp;India TV News8 simple lifestyle habits that help lower the risk of cancer&nbsp;&nbsp;The Economic TimesA cancer-fighting diet: Managing symptoms and food safety&nbsp;&nbsp;Mayo Clinic Press",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbmg2eVp2UlNDazE2TGk5WktYNkw4c1Y3NFp6SVRNUUJoak9scEh1d3RrZFUtMzZpQXNQNTRuOU9ZVkJ5ZElUTm14Y0RYXzJXWlBsWS1fVDh0ZlV4dTJqcVppY0tvSmphZE5LM29fTmJiTlRDa2l5OFNKOWlwUV9HSFlIRFhFY1cwOVhBM3FCVzNUTlhBaDZGeEk0NE45RnZfSWcydzQzWjdQZURSZUJIRjNTWDhxUVNBaVM4TjNId0xpdU93RVlIc3ppdE4tUdIB0wFBVV95cUxQRzJBQlFDNk1nWVhDcnpNWC1yZDBvMDJFaEtSSVhxV1M2NXltb1dFZkpvRXJLX20zOGowMDVJMG9uM1dUWlR2OV92bGZRSGVFSEpJQ0xLbGl0M01KaFFEcnpCWkEwcVlXYndMNTVhUm5kUVBRNXBaV2hfYUtfeVpzcUw4Qk1LT0pOWi11OEtyRVMyLVlxb0Y0eVV6ak51WFp5a1VpSEtfS2NZY2lTVUpjM2c5V0xBTHhGVkpPSTk1SFZPb3M4cVptVmZQVWtRZVE0RDZv?oc=5",
+      "source": "Google News Health IN",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "in",
+      "published_at": "2025-09-15T07:40:49+00:00"
+    },
+    {
+      "author": null,
+      "title": "'Killer' child car seats still on sale 10 years on",
+      "description": "Which? advised families to buy approved seats with a clear orange label indicating they are safe.",
+      "url": "https://www.bbc.com/news/articles/c8643d1p85zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - Health",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4187/live/6d25a890-8fc1-11f0-9cf6-cbf3e73ce2b9.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2025-09-15T07:24:33+00:00"
+    },
+    {
+      "author": null,
+      "title": "Fourteen NHS trusts' maternity care to be investigated over 'failures'",
+      "description": "Families impacted have criticised the review, calling it \"not fit for purpose\".",
+      "url": "https://www.bbc.com/news/articles/ckg6xj1vz70o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - Health",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60bf/live/09c7a4b0-91f1-11f0-84c8-99de564f0440.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2025-09-15T06:55:58+00:00"
+    },
+    {
+      "author": null,
+      "title": "Simple change to your breakfast timings could boost your lifespan, new study reveals - The Economic Times",
+      "description": "Simple change to your breakfast timings could boost your lifespan, new study reveals&nbsp;&nbsp;The Economic TimesThe Time of Day You Eat in Later Life Could Foreshadow an Early Death&nbsp;&nbsp;ScienceAlertWhy eating breakfast later could be bad for your health&nbsp;&nbsp;The Times of IndiaBreakfast timing may hold the key to living longer, new research reveals&nbsp;&nbsp;Fox NewsStudy: Delaying Breakfast May Increase Risk of Premature Death...&nbsp;&nbsp;jordannews.jo",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPUWxOZUNHU2xEemd5Y3V4aFI3UnBUMzhtaE9Kblo0NnhZQWdxNHZ6MzlnTlpuZnRqYXFHRXpoZmRBYVk4djN0TndGTHpJTGVtRExPaVp0MHA1UGl4TEQxTExSd3Q2ZWlkY2U1cFZxWDNna3lWaHFQYmZnNVpaSDNMbXNFUk03RDNsWFliNS1pNkVpaTZTeUFEMnFYWE9tVzJxbXB6VW5yNkxVaFYyeU1QNXBncEI2NTduYjFvckQ3dThuTldkdnhnR2p6bThzTE0wYU1WaUlzQ0NEQVhYNzVaY1k5aWEyQTB1TG5vX19LT05aU0llV3M4bmlJaHhpMGVjYVA2SVRNVmx0QdIBjwJBVV95cUxPbmZrdFZVc01INzdPdmNRaHZSMThLRmhON2hJYzM5TVpaQURlUmlZb2UtOXFYb29UNFg0cXNvTkp3UTUxTjJ6M1QxelRYN0l0NGVkaGluMG9lMlZZZFRROEw5U1dwMjJQUnBtdm15dUZ3eWI4UXZtYWM3eEVJdUhDVmR3VTZpbExOb2NvV2xpS2tIblVPTjB0S2pjd285WW5kVHZianFpWkJQREpyR0xTRHpzMHVYV2RDOU44eVNjbVh0MDcxcm03M19lbDlkZHNWV1dXd1J4bWFlRmk4TjVhdTRCNDVLenl1WlF2VW4zOUNhOVBKNnN5NlZEVEZIUGtvWW9KUmlQQzFrY0NWeWhV?oc=5",
+      "source": "Google News Health IN",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "in",
+      "published_at": "2025-09-15T04:39:04+00:00"
+    },
+    {
+      "author": null,
+      "title": "Hospital opens room for miscarriage support",
+      "description": "The space will provide \"compassionate care during a profoundly difficult time\", says a ward sister.",
+      "url": "https://www.bbc.com/news/articles/c0r0njljzq1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - Health",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35cd/live/b4e6eda0-8d92-11f0-b391-6936825093bd.png",
+      "category": "health",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2025-09-15T04:32:20+00:00"
+    },
+    {
+      "author": null,
+      "title": "Want stronger bones? Jumping exercises might help. - The Washington Post",
+      "description": "Want stronger bones? Jumping exercises might help.&nbsp;&nbsp;The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOanl0bk9sMFIxa2tFUklJdUxseW5wVEtqWjRNM3R3RHFaNUd3NWhoOTdSalMybFZwc09keG5fQzJjYWRKMXlrRWNoNWZoMlRLc1Q1UWd3dVVneHhZTC1fVGdDSEVEbmZRMUtDdmo1Q0lHZHhMRHRSME1oc0pvYkpMM25feVRWUUJv?oc=5",
+      "source": "Google News Health US",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-14T13:01:51+00:00"
+    },
+    {
+      "author": null,
+      "title": "Death Notice Patsy Murphy - Funeral Times",
+      "description": "Death Notice Patsy Murphy&nbsp;&nbsp;Funeral Times",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzNHhUM0E3aU8yUGZwUnVyN2s0eEZTbkFMYW56MzFOWFZqbG8wRFhsMkFKUnRlWngyVVNUdjl0dy1nQWRBQVFoVTE0OWlVWkNVYzZKSkpSMVVNVzl1d25uTA?oc=5",
+      "source": "Google News Health GB",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2025-09-13T19:49:36+00:00"
+    },
+    {
+      "author": null,
+      "title": "Hospital fires healthcare worker for controversial Charlie Kirk social media post",
+      "description": "Riverside Walter Reed Hospital terminated an anesthesiologist&apos;s contract after she posted inappropriate comments supporting violence against Charlie Kirk.",
+      "url": "https://www.foxnews.com/health/hospital-fires-healthcare-worker-controversial-charlie-kirk-social-media-post",
+      "source": "FOX News - Health",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/931/523/hospital-surgery-scene.jpg?ve=1&tl=1",
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-13T14:55:29+00:00"
+    },
+    {
+      "author": null,
+      "title": "4 early signs of thyroid cancer and 4 foods that can reduce the risk - The Economic Times",
+      "description": "4 early signs of thyroid cancer and 4 foods that can reduce the risk&nbsp;&nbsp;The Economic TimesEarly symptoms of thyroid issues you should not ignore&nbsp;&nbsp;The Indian Express6 Signs of an Underactive Thyroid&nbsp;&nbsp;Hartford HealthCareThe Medical Minute: The thyroid cancer symptoms you shouldn’t ignore&nbsp;&nbsp;Penn State UniversityWhy thyroid trouble is so often missed—and how to spot the signs&nbsp;&nbsp;National Geographic",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRTVZdUNEQkwwbWx2a0hUeFRicjBuN25zRW52MXFIcHdsT0g2N0VXTFB0czJqdEtjRlhGemxka29VbzdaYldSV3E4Vm9yeTRhX3ZvZGxDbW9VMW9OcnE5UVZLc2s1dG9WUHFRZWtzb2JVYnlReWlmZlF2RnlUcjJFRHdtYnRLdU9KdzNCQmd6TUZCMVpKSTRDaDNsdVA2cWJEeDZoOUJlODRPM2VYc1J5dGZpQzcxYWRGNTJOejUtUk9CY3NVbW9xMUYtbw?oc=5",
+      "source": "Google News Health IN",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "in",
+      "published_at": "2025-09-13T12:20:17+00:00"
+    },
+    {
+      "author": null,
+      "title": "20 minutes daily walk vs Rs 10 lakh home gym: Cardiologist explains what is more important for your heart - The Economic Times",
+      "description": "20 minutes daily walk vs Rs 10 lakh home gym: Cardiologist explains what is more important for your heart&nbsp;&nbsp;The Economic Times'Your ₹10 lakh home gym is losing to the....' Interventional Cardiologist busts myths on the power of 'si&nbsp;&nbsp;The Times of IndiaI walked 20 minutes daily at 80 and my doctor called it \"the best prescription I ever filled\"&nbsp;&nbsp;Le Journal CatalanScientists discover remarkable health impact of a daily 'fast walk'&nbsp;&nbsp;MSNWhy a 20-Minute Walk Could Beat The Gym for Your Heart, According To A Cardiologist&nbsp;&nbsp;Times Now",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPRnZHYUFxT2ltWDFzNTlJazlmWkp5MmFiUUNxQS1Sb3g0MkJNa0RHekE2NEZDZjBXczAxdUtpdmJ0dllkcXlsVTFvNE40MnprSEpqTnNDM3ZOV0RNYmZXUk1HT2o5Yk5KU3RJbzJYaXBUZTloSHRCVE5NUHFwejRPQWp4Nzdkcmp3bmc5MHBESy1sTXh6ZjVhb3J2cVFTQXpCclFSS0s1OE1TODQ4N1dSaUpyS3F3ejM2R05PLWdqQmRSRFRCSkU5SEV0eDNNLWU1TmpNRXBWbENJVGIwRnVnZTk5MjUtMWJXc0tidzVBSG4tbXZLc29BUVNMM1BETTJmaFFnRVJXUdIBjAJBVV95cUxNa3RCd3pyaDRuTGM4TnZjMk9WZnJuZkxEZzY5RjB6ZEp1TFFfa3FzUjJkTDRYZmU0clRzbHFITXd6VXRrNzRhV1l0LUs2MnkwalF0TS03a2N1N0UyTWI0QnNLR3FkTndqZ2hvQVg4clgtSGFZWUpKRDlJU3lxS0VtV196U19sSl9KdmdBSnVpUW5QdGRrMU5VSG42b3NvMEtkT29DQXVCeS1iZ28tZ3R6NUFucW1CQzhqSDF5ZWVGVUgzVHZSRU1MOEc3b2Q1NS1OSVZyZTh3cTVWSE4yZElYX2FXUk1xWEpzNTlTa0thUEgxenlDOW5RLXZzRUh5bEdMSS1heWZ6eS1ma3Z0?oc=5",
+      "source": "Google News Health IN",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "in",
+      "published_at": "2025-09-13T10:30:43+00:00"
+    },
+    {
+      "author": null,
+      "title": "Woman loses faith in hospital after miscarriage",
+      "description": "Emma Simmonds says she will never return to the hospital, this week rated England's worst.",
+      "url": "https://www.bbc.com/news/articles/ckg3x0137evo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - Health",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/944a/live/b2c70c00-8f20-11f0-8111-31005f7c48fd.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2025-09-13T05:36:16+00:00"
+    },
+    {
+      "author": null,
+      "title": "I quit my job to run a silent disco exercise group",
+      "description": "The Silent Steppers began in 2024 to promote physical and mental wellbeing.",
+      "url": "https://www.bbc.com/news/videos/ce86ym008vjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - Health",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c25/live/dfb35950-8e56-11f0-84c8-99de564f0440.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2025-09-12T16:55:04+00:00"
+    },
+    {
+      "author": null,
+      "title": "L.A. County child dies of rare measles complication years after infection - The Washington Post",
+      "description": "L.A. County child dies of rare measles complication years after infection&nbsp;&nbsp;The Washington PostLos Angeles County child dies of rare measles complication years after infection&nbsp;&nbsp;CNNChild dies from SSPE, a rare measles-related complication, LA County Public Health officials say&nbsp;&nbsp;ABC7 Los AngelesChild dies from complication of measles contracted years earlier&nbsp;&nbsp;AP NewsLos Angeles County child dies from complications caused by measles infection, public health officials say&nbsp;&nbsp;CBS News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS1lqcFBfSElPYThweTY5Z3ZIaW9SZXM1SnZfcm9HRTc0Z19GN0I2WnBBaXlVQWJsOVJ2cnAzeXh4NUgtbGt1dFl1NHlsRC1wQy1ETHFUUll4NGF3ZTJvSjJ0Sk10UHZkQWJzNXgwV2Zfalh5VUR1X0t0dnpwMWxmOHVQYXUyRTlweFNlVGNrNGJCOU9tbG42OEZkSjNoZE9h?oc=5",
+      "source": "Google News Health US",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-12T15:42:47+00:00"
+    },
+    {
+      "author": "Jancee Dunn",
+      "title": "Zosia Mamet on Anxiety, Depression and Body Dysmorphia",
+      "description": "In her new book, the actress turns her acid wit to Hollywood’s darker side and her own personal struggles.",
+      "url": "https://www.nytimes.com/2025/09/12/well/zosia-mamet-essays-health.html",
+      "source": "The New York Times",
+      "image": "https://static01.nyt.com/images/2025/08/25/multimedia/ZOSIA-MAMET-PROFILE1-fzwm/ZOSIA-MAMET-PROFILE1-fzwm-mediumSquareAt3X.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-12T15:18:37+00:00"
+    },
+    {
+      "author": "Jancee Dunn",
+      "title": "How to Calm Yourself Down in 5 Easy Steps",
+      "description": "These techniques can help you handle the ups and downs of daily life.",
+      "url": "https://www.nytimes.com/2025/09/12/well/tips-to-calm-down.html",
+      "source": "The New York Times",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-12T09:03:02+00:00"
+    },
+    {
+      "author": null,
+      "title": "Having Trouble Sleeping? Here’s When You Should See a Doctor. - The New York Times",
+      "description": "Having Trouble Sleeping? Here’s When You Should See a Doctor.&nbsp;&nbsp;The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aZHhreGlRTF83Zzh4Q1E5NkdrZXVpMU82MHdMTFowZ1BqQ1Q0cThFTEpXd0ZZdzRJRDI0V3hvMVk3ckg3UHQyQnRzeVNJWkJ4TVVRa3N3UTE5ZE5Da0h3QlpvUG9xQUtxRHl1cVA3NVB6RVNOcGxLZ3NKOA?oc=5",
+      "source": "Google News Health US",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-12T04:20:20+00:00"
+    },
+    {
+      "author": null,
+      "title": "Oysters, toxic complainers and exercise benefits: The week in Well+Being - The Washington Post",
+      "description": "Oysters, toxic complainers and exercise benefits: The week in Well+Being&nbsp;&nbsp;The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUkVJYWg3ZmdWT3VzV3k2RFpLMjV4dEtUTlh3cnZ2a2F0eWdQd01meUhmdEExLVE4anktSXNnM2tDN1pBTk5feDJXVWhhX1RtOHlxV2RDdFhHNFVXQmUxLVJGbVlhWWlzWEdham52cFlWeXU1YS1ld1FMTUhxNjdYNzhQa2JZblZIVFc1WnNEN3VkSTV2NUptTw?oc=5",
+      "source": "Google News Health US",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-12T02:35:48+00:00"
+    },
+    {
+      "author": null,
+      "title": "Ebola cases in Congo rise as authorities race to contain spread of outbreak, health agency says - The Washington Post",
+      "description": "Ebola cases in Congo rise as authorities race to contain spread of outbreak, health agency says&nbsp;&nbsp;The Washington PostDemocratic Republic of the Congo declares Ebola virus disease outbreak in Kasai Province&nbsp;&nbsp;WHO | Regional Office for AfricaCongo's Ebola-hit towns under confinement as cases tick up&nbsp;&nbsp;ET HealthWorldNew Ebola outbreak in Congo suspected of causing 15 deaths&nbsp;&nbsp;AP NewsCongo-Kinshasa: MSF Supports Ebola Outbreak Response in DR Congo&nbsp;&nbsp;allAfrica.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUjhLaVVXN2w5djJEcExvdWp2Ym11ZUFSVWpTMnI1OVd5OGVHbHJMX3N6VmhIVG01azgxWnFzSl80dXNVX1g5QjNSZmp6a3IwWWtsVUY4bUZMbU0yYWlDYnEzaGMzT0VnREpKc2d3dFY1eWp5ZnhUeEVxV1hvbS1CMHMwcjJvUHgydkhzVVNDMmhqeWxXQk9fUHZ6RDRvaXhhZVpJdXlKTnpubnY5NlVRTXRjOVVXN1ZHeElBMWxrOA?oc=5",
+      "source": "Google News Health IN",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "in",
+      "published_at": "2025-09-11T19:40:19+00:00"
+    },
+    {
+      "author": null,
+      "title": "Virginia makes it easier to access covid vaccines as virus cases rise - The Washington Post",
+      "description": "Virginia makes it easier to access covid vaccines as virus cases rise&nbsp;&nbsp;The Washington PostVa. Department of Health issues order to ease COVID-19 vaccine access, as federal guidance shifts&nbsp;&nbsp;Virginia Mercury‘The chaos is the point’: tumult as Covid vaccine boosters deployed under RFK Jr&nbsp;&nbsp;The GuardianNew federal restrictions on COVID-19 vaccine eligibility cause confusion and anger&nbsp;&nbsp;NPRSome South Carolinians may now need prescription to get COVID-19 vaccine&nbsp;&nbsp;Live 5 News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMEFaSUFOcXgySUdlVWgtUGl5ZFNBWWVPNnlxdmtVYUU0QWhJYzE1TXYydmFnVkQ4dFF0Tzc2RGlpUEcxbzQzLU9FT0U1VlMzQUZabFNBMFgxeDBzUVEzMnVBSTA5a2RyUnBlT3FncU82ZU5XVG5jTEcxUHlFTFJoMXZnRVNvVUp3MkRkUDRB?oc=5",
+      "source": "Google News Health US",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-11T19:25:27+00:00"
+    },
+    {
+      "author": "Simar Bajaj",
+      "title": "More Children Are Now Obese Than Underweight, UN Report Finds",
+      "description": "One in 10 children worldwide now has obesity, a report from UNICEF found, and the number of overweight children has more than doubled in low- and middle-income countries since 2000.",
+      "url": "https://www.nytimes.com/2025/09/11/well/child-obesity-un-report.html",
+      "source": "The New York Times",
+      "image": "https://static01.nyt.com/images/2025/09/11/well/WELL-GLOBAL-OBESITY2/WELL-GLOBAL-OBESITY2-mediumSquareAt3X.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-11T18:27:24+00:00"
+    },
+    {
+      "author": "Simar Bajaj",
+      "title": "When Should You See a Doctor About Sleep?",
+      "description": "Here are some signs that it’s time to make an appointment.",
+      "url": "https://www.nytimes.com/2025/09/09/well/sleep-medicine-appointment.html",
+      "source": "The New York Times",
+      "image": "https://static01.nyt.com/images/2025/09/09/multimedia/09ASKWELL-DOCTOR-SLEEP1-jqzk/09ASKWELL-DOCTOR-SLEEP1-jqzk-mediumSquareAt3X.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-11T16:33:10+00:00"
+    },
+    {
+      "author": null,
+      "title": "Opinion | Not vaccinating comes at an exorbitant cost - The Washington Post",
+      "description": "Opinion | Not vaccinating comes at an exorbitant cost&nbsp;&nbsp;The Washington PostThe fragile triumph of vaccines | Opinion&nbsp;&nbsp;Sun SentinelBJORN LOMBORG: Investing in vaccines — an amazing human discovery — is a no-brainer&nbsp;&nbsp;BusinessLIVEHow vaccines changed the world and the public health challenges that persist&nbsp;&nbsp;NewsBreak: Local News & Alerts",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2cWFadFJ5QkJfejNCLWhvR3otUWk2cTFZSFNrd2VpaDI3b1d2bDJpZlg4a3ZXd0Q2TURENVNreWt4MFdRbFFlckhSRTJuX3Q0cU5nWTFxdmttRUNZNEJLOUhvMFdxclpfWUZjVVZkTXNPWXJZWXdsMmdZbzJEWDg?oc=5",
+      "source": "Google News Health US",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-11T15:01:48+00:00"
+    },
+    {
+      "author": null,
+      "title": "'Hoarding was a way to protect myself from the world'",
+      "description": "Hoarding is often misunderstood, but it can be a symptom of deep trauma. One woman shares how hoarding impacted her life - and her road to recovery.",
+      "url": "https://www.bbc.com/videos/c3dr5xk5xvjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News - Health",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7b4/live/c62a45d0-8e37-11f0-84c8-99de564f0440.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "gb",
+      "published_at": "2025-09-11T09:29:17+00:00"
+    },
+    {
+      "author": "Benjamin Mueller and Dani Blum",
+      "title": "The Jarring Contradiction at the Heart of Kennedy’s Agenda",
+      "description": "The health secretary has begun a full-on assault against vaccines but has taken a more restrained approach to pesticides and unhealthy foods, also MAHA priorities.",
+      "url": "https://www.nytimes.com/2025/09/11/health/kennedy-maha-vaccines-food.html",
+      "source": "The New York Times",
+      "image": "https://static01.nyt.com/images/2025/09/10/multimedia/10hs-maha-contrasts-03-pqjl/10hs-maha-contrasts-03-pqjl-mediumSquareAt3X.jpg",
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-11T09:02:24+00:00"
+    },
+    {
+      "author": "Dana G. Smith",
+      "title": "Can Anti-Aging Supplements Help You Live Longer? What the Experts Say.",
+      "description": "Many anti-aging influencers say yes. Here’s what doctors and scientists think.",
+      "url": "https://www.nytimes.com/2025/09/11/well/anti-aging-supplements-longevity.html",
+      "source": "The New York Times",
+      "image": null,
+      "category": "health",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-09-11T09:00:52+00:00"
     }
   ]
 }
