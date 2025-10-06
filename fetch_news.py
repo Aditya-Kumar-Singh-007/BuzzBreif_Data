@@ -2,6 +2,7 @@ import requests
 import json
 import os
 import time
+from git import Repo, GitCommandError
 
 # ---------------- CONFIG ----------------
 API_KEY = "731d73ab4dded5018c85153269160869"  # Your Mediastack API key
@@ -15,6 +16,7 @@ BASE_URL = "http://api.mediastack.com/v1/news"
 # Use current script directory
 OUTPUT_FOLDER = os.path.dirname(os.path.abspath(__file__))
 
+# ---------------- FETCH NEWS ----------------
 for category in categories:
     print(f"Fetching category: {category}...")
     all_articles = []
@@ -43,7 +45,6 @@ for category in categories:
             offset += PAGE_SIZE
 
             if len(data["data"]) < PAGE_SIZE:
-                # No more articles returned
                 break
 
             time.sleep(1)  # prevent hitting API limits
@@ -54,7 +55,7 @@ for category in categories:
     # Trim to desired max articles
     all_articles = all_articles[:ARTICLES_PER_CATEGORY]
 
-    # Save JSON file in same directory as script
+    # Save JSON file
     filename = os.path.join(OUTPUT_FOLDER, f"{category}.json")
     with open(filename, "w", encoding="utf-8") as f:
         json.dump({
@@ -65,4 +66,15 @@ for category in categories:
 
     print(f"✅ Saved {len(all_articles)} articles to {filename}\n")
 
-print("🎉 All category files updated successfully in script directory!")
+# ---------------- PUSH TO GITHUB ----------------
+try:
+    repo = Repo(OUTPUT_FOLDER)  # Make sure this is the path to your local repo
+    repo.git.add(update=True)    # Stage all changed files
+    repo.index.commit("Update news JSON files")  # Commit
+    origin = repo.remote(name='origin')
+    origin.push()  # Push to GitHub
+    print("🎉 All changes pushed to GitHub successfully!")
+except GitCommandError as e:
+    print(f"❌ Git operation failed: {e}")
+except Exception as e:
+    print(f"❌ Unexpected error during Git push: {e}")
