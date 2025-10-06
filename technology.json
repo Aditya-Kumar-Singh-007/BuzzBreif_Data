@@ -1,8 +1,19 @@
 {
   "status": "ok",
-  "last_updated": "2025-10-06 21:31:28",
   "totalResults": 150,
   "articles": [
+    {
+      "author": "Emma Roth",
+      "title": "Verizon appoints a new CEO for the &#8216;next phase&#8217; after its 5G rollout",
+      "description": "PayPal appointed Dan Schulman as CEO in 2014, and he stepped down in 2023. | Photo by Nathan Laine/Bloomberg via Getty Images Verizon has picked former PayPal head Dan Schulman to serve as its new CEO as the company enters its “next phase” of growth, Verizon board chair Mark Bertolini says in the Monday announcement. Starting today, Schulman will replace outgoing CEO Hans Vestberg, who will now serve as a special advisor through October 4th, 2026.Vestberg became the CEO of Verizon in 2018, where he oversaw the carrier’s 5G launch and its expansion. Last year, Vestberg admitted that people...",
+      "url": "https://www.theverge.com/news/792875/verizon-dan-schulman-ceo-hans-vestberg-replacement",
+      "source": "The Verge",
+      "image": null,
+      "category": "technology",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-10-06T15:35:40+00:00"
+    },
     {
       "author": "Jeff Dunn",
       "title": "The best October Prime Day deals on Apple devices: Save on AirPods, iPads, AirTags and more",
@@ -1790,18 +1801,6 @@
       "language": "en",
       "country": "us",
       "published_at": "2025-10-02T14:00:00+00:00"
-    },
-    {
-      "author": "Aria Alamalhodaei",
-      "title": "Spacecoin beams blockchain transaction through space in bid for decentralized internet",
-      "description": "Spacecoin envisions a decentralized rival to SpaceX's Starlink.",
-      "url": "https://techcrunch.com/2025/10/02/spacecoin-beams-blockchain-transaction-through-space-in-bid-for-decentralized-internet/",
-      "source": "TechCrunch",
-      "image": null,
-      "category": "technology",
-      "language": "en",
-      "country": "us",
-      "published_at": "2025-10-02T13:21:16+00:00"
     }
   ]
 }
