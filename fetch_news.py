@@ -6,7 +6,7 @@ from git import Repo, GitCommandError
 from datetime import datetime
 
 # ---------------- CONFIG ----------------
-API_KEY = "731d73ab4dded5018c85153269160869"  # Your Mediastack API key
+API_KEY = "7a614e465a0a58682bd869ceee1540be"  # Your Mediastack API key
 categories = ["business", "entertainment", "general", "health", "science", "sports", "technology"]
 countries = ["us", "in", "gb", "de"]  # USA, India, UK, Germany
 ARTICLES_PER_CATEGORY = 150
