@@ -1,7 +1,20 @@
 {
   "status": "ok",
+  "last_updated": "2025-10-06 21:18:15",
   "totalResults": 150,
   "articles": [
+    {
+      "author": null,
+      "title": "Sharper exoplanet data: Limb darkening correction can boost transit depth accuracy fivefold",
+      "description": "In principle, discovering new exoplanets is pretty easy. Simply measure the brightness of a star over time, and when a planet passes in front of the star, the brightness will dim slightly. The more the brightness dips, the larger the planet in relation to the star. This transit method is so effective it is how we have found the majority of exoplanets. But astronomers want to do much more than simply discover planets, and for that you need to dive into the details.",
+      "url": "https://phys.org/news/2025-10-sharper-exoplanet-limb-darkening-boost.html",
+      "source": "Phys.org - News And Articles On Science And Technology",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/reliably-getting-5-tim.jpg",
+      "category": "science",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-10-06T15:16:09+00:00"
+    },
     {
       "author": null,
       "title": "Take a flight over the Martian surface with the Mars Express orbiter",
@@ -1789,18 +1802,6 @@
       "language": "en",
       "country": "us",
       "published_at": "2025-10-02T16:01:04+00:00"
-    },
-    {
-      "author": "Sophie Berdugo",
-      "title": "Scientists find best evidence yet that icy moon Enceladus is habitable",
-      "description": "An ocean flowing beneath the surface of Saturn's moon Enceladus is spewing ice that holds the building blocks of life.",
-      "url": "https://www.livescience.com/space/saturn/scientists-find-best-evidence-yet-that-icy-moon-enceladus-is-habitable",
-      "source": "Live Science: The Most Interesting Articles",
-      "image": "https://cdn.mos.cms.futurecdn.net/yo7bvYx2797wDrqdyNd45W-1280-80.jpg",
-      "category": "science",
-      "language": "en",
-      "country": "us",
-      "published_at": "2025-10-02T15:56:50+00:00"
     }
   ]
 }

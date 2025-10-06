@@ -1,7 +1,32 @@
 {
   "status": "ok",
+  "last_updated": "2025-10-06 21:17:52",
   "totalResults": 150,
   "articles": [
+    {
+      "author": "Catherine Pearson",
+      "title": "Dating When You Want to Have a Baby",
+      "description": "For some single women in their 30s and 40s, their biological clocks add unwelcome stress to an already fraught process.",
+      "url": "https://www.nytimes.com/2025/10/06/well/family/dating-fertility-babies.html",
+      "source": "The New York Times",
+      "image": null,
+      "category": "entertainment",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-10-06T15:16:12+00:00"
+    },
+    {
+      "author": "TMZ Staff",
+      "title": "Kylie Jenner Wows as She Attends Miu Miu Show at Paris Fashion Week",
+      "description": "Kylie Jenner hit Paris and, as usual, turned the City of Lights into her personal runway ... and heads were literally spinning at this fashion flex! See for yourself -- Kylie's turning heads in a skin-tight, plunging lace dress that clings to every&hellip;",
+      "url": "https://www.tmz.com/2025/10/06/kylie-jenner-miu-miu-paris-fashion-week-style/",
+      "source": "TMZ",
+      "image": null,
+      "category": "entertainment",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-10-06T15:15:03+00:00"
+    },
     {
       "author": "Aimee Hart",
       "title": "Matthew Mercer’s character in Critical Role Campaign 4 is an absolute menace",
@@ -1777,30 +1802,6 @@
       "language": "en",
       "country": "us",
       "published_at": "2025-10-03T20:15:29+00:00"
-    },
-    {
-      "author": "Ari Notis",
-      "title": "How to solve the Reliquary of Resilience puzzle in Ghost of Yōtei",
-      "description": "You'll need to rotate the wolf statues in the correct order to claim a prize",
-      "url": "https://www.polygon.com/ghost-yotei-reliquary-resilience-puzzle-solution-how-to-solve/",
-      "source": "Polygon",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/10/share_20251003_0734170.jpeg",
-      "category": "entertainment",
-      "language": "en",
-      "country": "us",
-      "published_at": "2025-10-03T20:10:09+00:00"
-    },
-    {
-      "author": "Matt Patches",
-      "title": "The weirdest KPop Demon Hunters Halloween costume is just $40",
-      "description": "Huntrix and Saja Boys costumes are all the rage on Etsy, AliExpress, and Temu, but Netflix has shirt that will turn your eyes into popcorn.",
-      "url": "https://www.polygon.com/kpop-demon-hunters-halloween-costume-saja-boys-abs/",
-      "source": "Polygon",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/10/kpop_demon_hunter_abs.jpg",
-      "category": "entertainment",
-      "language": "en",
-      "country": "us",
-      "published_at": "2025-10-03T19:52:06+00:00"
     }
   ]
 }

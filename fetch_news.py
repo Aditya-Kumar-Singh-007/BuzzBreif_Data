@@ -3,6 +3,7 @@ import json
 import os
 import time
 from git import Repo, GitCommandError
+from datetime import datetime
 
 # ---------------- CONFIG ----------------
 API_KEY = "731d73ab4dded5018c85153269160869"  # Your Mediastack API key
@@ -55,25 +56,32 @@ for category in categories:
     # Trim to desired max articles
     all_articles = all_articles[:ARTICLES_PER_CATEGORY]
 
-    # Save JSON file
+    # Save JSON file with timestamp
     filename = os.path.join(OUTPUT_FOLDER, f"{category}.json")
+    now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     with open(filename, "w", encoding="utf-8") as f:
         json.dump({
             "status": "ok",
+            "last_updated": now,
             "totalResults": len(all_articles),
             "articles": all_articles
         }, f, ensure_ascii=False, indent=2)
 
-    print(f"✅ Saved {len(all_articles)} articles to {filename}\n")
+    print(f"✅ Saved {len(all_articles)} articles to {filename} (last updated: {now})\n")
 
 # ---------------- PUSH TO GITHUB ----------------
 try:
     repo = Repo(OUTPUT_FOLDER)  # Make sure this is the path to your local repo
     repo.git.add(update=True)    # Stage all changed files
-    repo.index.commit("Update news JSON files")  # Commit
+    
+    # Commit with timestamp
+    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    commit_message = f"Update news JSON files - {timestamp}"
+    repo.index.commit(commit_message)
+    
     origin = repo.remote(name='origin')
     origin.push()  # Push to GitHub
-    print("🎉 All changes pushed to GitHub successfully!")
+    print(f"🎉 All changes pushed to GitHub successfully! ({timestamp})")
 except GitCommandError as e:
     print(f"❌ Git operation failed: {e}")
 except Exception as e:
