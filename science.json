@@ -1,8 +1,32 @@
 {
   "status": "ok",
-  "last_updated": "2025-10-06 21:28:36",
+  "last_updated": "2025-10-06 21:31:13",
   "totalResults": 150,
   "articles": [
+    {
+      "author": null,
+      "title": "AI tool visually maps science funding and its real-world impacts",
+      "description": "The impact of scientific research extends far beyond the laboratory. Breakthroughs like insulin and innovations like the internet have transformed our everyday lives. They also influence policymaking and the overall economy. To make the most of every discovery, we must understand how science and its funding ripple through society, but how do we trace that impact?",
+      "url": "https://phys.org/news/2025-10-ai-tool-visually-science-funding.html",
+      "source": "Phys.org - News And Articles On Science And Technology",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/new-ai-tool-for-visual.jpg",
+      "category": "science",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-10-06T15:30:11+00:00"
+    },
+    {
+      "author": null,
+      "title": "Six months in 'climate hell': Relentless heat causes routine fainting episodes in textile factories, investigation shows",
+      "description": "\"Almost every day [in the hot season] in our factory, five to seven people faint. Five to seven people just fall down.\"",
+      "url": "https://phys.org/news/2025-10-months-climate-hell-relentless-routine.html",
+      "source": "Phys.org - News And Articles On Science And Technology",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/six-months-in-climate.jpg",
+      "category": "science",
+      "language": "en",
+      "country": "us",
+      "published_at": "2025-10-06T15:30:03+00:00"
+    },
     {
       "author": null,
       "title": "New species of deep-sea shark and crab discovered off Western Australia",
@@ -1778,30 +1802,6 @@
       "language": "en",
       "country": "us",
       "published_at": "2025-10-02T16:23:05+00:00"
-    },
-    {
-      "author": null,
-      "title": "The spiritual and emotional world of pub psychic nights",
-      "description": "At a Bristol social club, a psychic medium scans the room, inviting the spirit world into a space more often used for drinking and darts. The medium is talking to a small audience, mostly women.",
-      "url": "https://phys.org/news/2025-10-spiritual-emotional-world-pub-psychic.html",
-      "source": "Phys.org - News And Articles On Science And Technology",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/psychic-1.jpg",
-      "category": "science",
-      "language": "en",
-      "country": "us",
-      "published_at": "2025-10-02T16:20:05+00:00"
-    },
-    {
-      "author": null,
-      "title": "Meet Irene Curie, the Nobel-winning atomic physicist who changed the course of modern cancer treatment",
-      "description": "The adage goes \"like mother like daughter,\" and in the case of Irene Joliot-Curie, truer words were never spoken. She was the daughter of two Nobel Prize laureates, Marie Curie and Pierre Curie, and was herself awarded the Nobel Prize in chemistry in 1935 together with her husband, Frederic Joliot.",
-      "url": "https://phys.org/news/2025-10-irene-curie-nobel-atomic-physicist.html",
-      "source": "Phys.org - News And Articles On Science And Technology",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/meet-irene-curie-the-n.jpg",
-      "category": "science",
-      "language": "en",
-      "country": "us",
-      "published_at": "2025-10-02T16:19:05+00:00"
     }
   ]
 }
